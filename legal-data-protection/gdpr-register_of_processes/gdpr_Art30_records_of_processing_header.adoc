@@ -1,0 +1,55 @@
+.Contact Information (VONQ B.V.)
+|===
+| | 
+
+|Name
+|VONQ B.V.
+|Street
+|Beursplein 37
+|ZIP code
+|3011 AA 
+|City
+|Rotterdam
+|Phone
+|$_phone_number
+|Email address
+|$email_address
+|Internet address
+|https://www.vonq.com
+|===
+
+.Authorized Representative - CEO
+|===
+| | 
+
+|Name
+|Arno Schäfer
+|Street
+|Beursplein 37
+|ZIP code
+|3011 AA 
+|City
+|Rotterdam
+|Phone
+|$_phone_number
+|Email address
+|$email_address
+|===
+
+.Data Protection Officer (external)
+|===
+| | 
+
+|Name
+|Martin Behrens
+|Street
+|Beursplein 37
+|ZIP code
+|3011 AA 
+|City
+|Rotterdam
+|Phone
+|$_phone_number
+|Email address
+|$email_address
+|===

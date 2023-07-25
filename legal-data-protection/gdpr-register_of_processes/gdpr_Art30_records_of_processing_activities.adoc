@@ -1,0 +1,32 @@
+
+= Records of processing - (art. 30 GDPR) - VONQ B.V. - Product HAPI - (EN)
+
+:toc:
+:toclevels: 4
+:toc-title: Records of Processing - VONQ B.V.
+:description: Records of Processing according to art. 30 GDPR VONQ B.V.
+:sectnums:
+
+<<<
+
+== General
+
+include::gdpr_Art30_records_of_processing_header.adoc[]
+
+== Processing activities
+
+=== Processing activity: no.: 01
+
+include::gdpr_Art30_records_of_processing_process_01.adoc[]
+
+=== Processing activity: no.: 02
+
+include::gdpr_Art30_records_of_processing_process_02.adoc[]
+
+=== Processing activity: no.: 03
+
+include::gdpr_Art30_records_of_processing_process_03.adoc[]
+
+=== Processing activity: no.: 04
+
+include::gdpr_Art30_records_of_processing_process_04.adoc[]
