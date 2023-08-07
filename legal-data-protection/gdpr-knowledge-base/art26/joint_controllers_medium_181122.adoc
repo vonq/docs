@@ -50,7 +50,7 @@ Another possible structure is the “origin-based approach“, which arises when
 Example: Social networks
 Social network service providers provide online communication platforms which enable individuals to publish and exchange information with other users. These service providers are data controllers, since they determine both the purposes and the means of the processing of such information. The users of such networks, uploading personal data also of third parties, would qualify as controllers provided that their activities are not subject to some form of exception (e.g. the so-called “household exception” under GDPR).
 
-image::joint_controllers_medium_181122.webp[flowchart, 300, 300, role="right"]
+image::joint_controllers_medium_181122.webp[flowchart, 800, 600, role="right"]
 
 After analyzing those cases where the different subjects determine jointly only part of the purposes and means, a very clear cut and unproblematic case is the one where multiple subjects jointly determine and share all the purposes and the means of processing activities, giving rise to a full-fledged joint control.
 
