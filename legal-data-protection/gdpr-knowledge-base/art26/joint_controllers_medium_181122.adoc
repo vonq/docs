@@ -1,0 +1,82 @@
+Source: https://medium.com/golden-data/what-are-joint-controllers-a9614d4a633d
+
+What are ‘joint controllers’ (a.k.a. ‘co-controllers’)?
+
+Key points:
+
+(1) Entities that jointly determine the “means and purposes” of the processing are joint controllers. The participation of parties in the determination of purposes and means of processing in the context of joint control may take different forms and does not need to be equally shared.
+
+(2) A broad variety of typologies for joint control exists and their legal consequences vary.
+
+(3) Joint controllers have a certain degree of flexibility in distributing and allocating obligations and responsibilities but, as a general rule, will be jointly and severally responsible for compliance vis-à-vis the data subject.
+
+(4) Joint controllers should enter into agreements to determine their respective responsibilities but, if the factual factual circumstances of the underlying data processing are the key factor in any determination or liability under the law.
+
+(5) Striking a balance that ensures compliance with data protection rules while avoiding multiplication of controllers that may lead lack of clarity is key.
+
+Data protection law typically defines controllers as individuals or entities that, alone or in jointly with others, determine the purposes and the means of the processing of personal data. The reference “alone or with others” allows for the possibility where two or more entities act jointly as controllers (GDPR specifically identifies joint controllers as a configuration of control and regulates it in Article 26). This is because, for a single processing operation a number of parties may jointly determine the purpose and means of processing to be carried out and in such cases each of the co- controllers must be considered as being constrained by the obligations imposed by data protection law. Contractual arrangements can be useful in assessing joint control, but should always be checked against the factual circumstances of the relationship between the parties.
+
+First of all, the mere fact that different entities cooperate in processing personal data, for example in a chain, does not entail that they are joint controllers, since an exchange of data between two parties without sharing purposes or means in a common set of operations should be considered only as a transfer of data between separate controllers.
+
+Example: Travel agency
+A travel agency sends personal data of its customers to the airlines and a chain of hotels, with a view to making reservations for a travel package. The airline and the hotel confirm the availability of the seats and rooms requested. The travel agency issues the travel documents and vouchers for its customers. In this case, the travel agency, the airline and the hotel will be three different data controllers, each subject to the data protection obligations relating to its own processing of personal data.
+
+However, the assessment may change when different actors would decide to set up a shared infrastructure to pursue their own individual purposes. When in setting up this infrastructure these actors determine the essential elements of the means to be used, they qualify as joint data controllers — in any case to that extent — even if they do not necessarily share the same purposes.
+
+Example: Travel agency
+The travel agency, the hotel chain and the airline decide to set up an internet-based common platform in order to improve their cooperation with regard to travel reservation management. They agree on important elements of the means to be used, such as which data will be stored, how reservations will be allocated and confirmed, and who can have access to the information stored. Furthermore, they decide to share the data of their customers in order to carry out integrated marketing actions.
+
+In this case, the travel agency, the airline and the hotel chain, will have joint control on how personal data of their respective customers are processed and will therefore be joint controllers with regard to the processing operations relating to the common internet-based booking platform. However, each of them would still retain sole control with regard to other processing activities, e.g. those relating to the management of their human resources.
+
+In some cases, various actors process the same personal data in a sequence. In these cases, it is likely that at micro-level the different processing operations of the chain appear as disconnected, as each of them may have a different purpose. However, it is necessary to double check whether at macro-level these processing operations should not be considered as a “set of operations” pursuing a joint purpose or using jointly defined means.
+
+The following two examples clarify this idea by providing two different possible scenarios.
+
+Example: Transfer of employee data to tax authorities
+Company XYZ collects and processes personal data of its employees with the purpose of managing salaries, missions, health insurances, etc. However, a law also imposes an obligation on the company to send all data concerning salaries to the tax authorities, with a view to reinforce fiscal control.
+
+In this case, even though both company XYZ and the tax authorities process the same data concerning salaries, the lack of shared purpose or means with regard to this data processing will result in qualifying the two entities as two separate data controllers.
+
+Example: Financial transactions
+Instead, let’s take the case of a bank, which uses a financial messages carrier in order to carry out its financial transactions. Both the bank and the carrier agree about the means of the processing of financial data. The processing of personal data concerning financial transactions is carried out at a first stage by the financial institution and only at a later stage by the financial messages carrier. However, even if at micro level each of these subjects pursues its own purpose, at macro level the different phases and purposes and means of the processing are closely linked. In this case, both the bank and the message carrier can be considered as joint controllers.
+
+Other cases exist where the various actors involved jointly determine, in some cases to a different extent, the purposes and/or the means of a processing operation. There are cases where each controller is responsible for only a part of the processing, but the information is put together and processed through a platform.
+
+Example: E-Government portals
+E-Government portals act as intermediaries between the citizens and the public administration units: the portal transfers the requests of the citizens and deposits the documents of the public administration unit until these are recalled by the citizen. Each public administration unit remains controller of the data processed for its own purposes. Nevertheless, the portal itself may be also considered controller. Indeed, it processes (i.e. collects and transfers to the competent unit) the requests of the citizens as well as the public documents (i.e. stores them and regulates any access to them, such as the download by the citizens) for further purposes (facilitation of e-Government services) than those for which the data are initially processed by each public administration unit. These controllers, among other obligations, will have to ensure that the system to transfer personal data from the user to the public administration’s system is secure, since at a macro-level this transfer is an essential part of the set of processing operations carried out through the portal.
+
+Another possible structure is the “origin-based approach“, which arises when each controller is responsible for the data it introduces in the system. This is the case of some EU-wide databases, where control — and thus the obligation to act on requests for access and rectification — is attributed on the basis of the national origin of personal data. Another interesting scenario is provided by online social networks.
+
+Example: Social networks
+Social network service providers provide online communication platforms which enable individuals to publish and exchange information with other users. These service providers are data controllers, since they determine both the purposes and the means of the processing of such information. The users of such networks, uploading personal data also of third parties, would qualify as controllers provided that their activities are not subject to some form of exception (e.g. the so-called “household exception” under GDPR).
+
+image::joint_controllers_medium_181122.webp[flowchart, 300, 300, role="right"]
+
+After analyzing those cases where the different subjects determine jointly only part of the purposes and means, a very clear cut and unproblematic case is the one where multiple subjects jointly determine and share all the purposes and the means of processing activities, giving rise to a full-fledged joint control.
+
+In the latter case, it is easy to determine who is competent and in a position to ensure data subjects’ rights as well as to comply with data protection obligations. However, the task of determining which controller is competent — and liable — for which data subjects’ rights and obligations is much more complex where the various joint controllers share purposes and means of processing in an asymmetrical way.
+
+The issue of whether “joint control” always entails joint and several liability is a thorny one. As a general rule, data protection authorities take the position that liability should be joint and several. However, in circumstances where various controllers are responsible — and thus liable — for the processing of personal data at different stages and to different degrees separate and proportionate liability is conceivable. That said, data protection authorities have traditionally taken the position that, irrespective of any terms or arrangements allocating liability among controllers, data subjects may exercise their rights against any controller (GDPR specifically establishes this as the rule in Article 26(3))
+
+Example: Banks and information pools on defaulting customers
+Several banks may establish a common “information pool” — where national law allows for these pools — whereby each of them contributes information (data) concerning defaulting customers and all of them have access to the total amount of information. Some legislations provide that all requests of data subjects, e.g. for access or deletion, need only to be made to one “entry-point”, the provider. The provider is responsible for finding the correct controller and for organizing that due answers are given to the data subject. The identity of the provider is published in the Data Processing Register. In other jurisdictions, such information pools may be operated by separate legal entities as controller, while requests for subject access are handled by the participating banks acting as its intermediary.
+
+Example: Behavioral advertising
+Behavioral advertising uses information collected on an individual’s web-browsing behavior, such as the pages visited or the searches made, to select which advertisements to display to that individual. Both publishers, which very often rent advertising spaces on their websites, and ad network providers, who fill those spaces with targeted advertising, may collect and exchange information on users, depending on specific contractual arrangements.
+From a data protection perspective, the publisher is to be considered as an autonomous controller insofar as it collects personal data from the user (user profile, IP address, location, language of operating system, etc) for its own purposes. The ad network provider will also be controller insofar as it determines the purposes (monitoring users across websites) or the essential means of the processing of data. Depending on the conditions of collaboration between the publisher and the ad network provider, for instance if the publisher enables the transfer of personal data to the ad network provider, including for instance through a re-direction of the user to the webpage of the ad network provider, they could be joint controllers for the set of processing operations leading to behavioral advertising.
+
+In all cases, (joint) controllers shall ensure that the complexity and the technicalities of the behavioral advertising system do not prevent them from finding appropriate ways to comply with controllers’ obligations and to ensure data subjects’ rights. This would include notably: information to the user on the fact that his/her data are accessible by a third party. This could be done more efficiently by the publisher who is the main interlocutor of the user, and conditions of access to personal data. The ad-network company would have to answer to users’ requests on the way they perform targeted advertising on users data, and comply with correction and deletion requests.
+
+In addition, publishers and ad network providers may be subject to other obligations stemming from civil and consumer protection laws, including tort laws and unfair commercial practices.
+
+Example: Platforms for managing health data
+A public authority establishes a national switch point regulating the exchange of patient data between healthcare providers. The plurality of controllers — tens of thousands — results in such an unclear situation for the data subjects (patients) that the protection of their rights would be in danger. Indeed, for data subjects it would be unclear whom they could address in case of complaints, questions and requests for information, corrections or access to personal data. Furthermore, the public authority is responsible for the actual design of the processing and the way it is used. These elements lead to the conclusion that the public authority establishing the switch point shall be considered as a joint controller, as well as a point of contact for data subjects’ requests.
+
+Resources
+EDPS Guidelines on the concepts of controller, processor and joint controllership under Regulation (EU) 2018/1725. November 7, 2019 - https://edpb.europa.eu/our-work-tools/public-consultations-art-704/2020/guidelines-072020-concepts-controller-and-processor_en
+
+EDPB Guidelines on the concept of controller and processor (2020)
+
+Article 29WP Opinion on the concept of Controller and Processor 169/2010 - https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2010/wp169_en.pdf
+
+Article 29WP Opinion 10/2006 on the Processing of Personal Data by the Society for Worldwide Interbank Financial Telecommunications (SWIFT) https://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2006/wp128_en.pdf

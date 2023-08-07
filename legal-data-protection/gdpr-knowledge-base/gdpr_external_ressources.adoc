@@ -1,0 +1,94 @@
+= Data Protection - GDPR - External Resources
+
+:toc:
+:toclevels: 4
+
+<<<
+
+== Regulatory Authority ==
+
+* VONQ B.V. - link:https://www.autoriteitpersoonsgegevens.nl/en[]
+* VONQ GmbH - link:https://www.ldi.nrw.de/[]
+ 
+== Official Documents ==
+=== GDPR - Official Text ===
+ 
+* link:http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&qid=1501595970368&from=EN[]
+ 
+=== GDPR - Standard contractual clauses to facilitate personal data transfers to third countries for processing ===
+ 
+* link:http://europa.eu/rapid/press-release_IP-02-102_en.htm?locale=en[]
+* link:http://europa.eu/rapid/press-release_MEMO-05-3_en.htm?locale=en[]
+* link:http://europa.eu/rapid/press-release_MEMO-15-6014_en.htm[]
+ 
+=== Data Protection Policies ===
+ 
+* link:https://www.akademie.de/wissen/datenschutzerklaerung-eu-dsgvo[]
+ 
+[[ART04S08]]
+=== Processor Controller - Art. 4 Sec. 8 GDPR === 
+
+* link:https://www.lda.bayern.de/media/FAQ_Abgrenzung_Auftragsverarbeitung.pdf[]
+* link:http://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2010/wp169_en.pdf[]
+
+[[ART04S11]]
+=== Consent - Art. 4 Sec. 11 GDPR ===
+ 
+* link:http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=623051[]
+
+[[ART20]]
+=== Right to data portability - Art. 20 GDPR === 
+ 
+* link:http://ec.europa.eu/information_society/newsroom/image/document/2016-51/wp242_en_40852.pdf[]
+ 
+[[ART22]]
+=== Automated Decision Making - Art. 22 GDPR ===
+ 
+* link:http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053[]
+* link:https://www.heise.de/newsticker/meldung/DSGVO-und-KI-Unvertraeglichkeiten-beim-Datenschutz-4049785.html[]
+* link:https://www.bitkom.org/Bitkom/Publikationen/Bitkom-views-on-Article-29-Working-Party-draft-guidelines-on-automated-individual-decision-making-including-profiling.html[]
+ 
+[[ART30]]
+=== Register of Processes - Art. 30 GDPR ===
+ 
+* link:https://www.lda.bayern.de/de/infoblaetter.html[]
+* link:https://www.lda.bayern.de/media/dsk_hinweise_vov.pdf[]
+* link:https://www.lda.bayern.de/media/dsk_muster_vov_verantwortlicher.pdf[]
+* link:https://www.bitkom.org/noindex/Publikationen/2018/Leitfaeden/180530-Verzeichnis-von-Verarbeitungstaetigkeiten-nach-Art-30-EU-Datenschutz-Grundverordnung-DS-GVO/180529-LF-Verarbeitungsverzeichnis-online.pdf[]
+ 
+[[ART35]]
+=== Data Protection Impact Assessment (DPIA) - Art. 35 GDPR ===
+ 
+* link:https://www.bitkom.org/NP-Themen/NP-Vertrauen-Sicherheit/Datenschutz/FirstSpirit-1496129138918170529-LF-Risk-Assessment-online.pdf[]
+* link:https://www.lda.bayern.de/media/dsk_kpnr_5_dsfa.pdf[]
+* link:https://www.datenschutzzentrum.de/uploads/datenschutzfolgenabschaetzung/20171106-Planspiel-Datenschutz-Folgenabschaetzung.pdf[]
+* link:https://www.privacyofficers.at/Privacyofficers_DSFA-Umsetzung_DSGVO_v1.0.pdf[]
+* link:https://ec.europa.eu/energy/sites/ener/files/documents/2014_dpia_smart_grids_forces.pdf[]
+
+* link:https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/05/Liste-von-Verarbeitungsvorg%C3%A4ngen-nach-Art.-35-Abs.-4-DS-GVO-LfDI-BW.pdf[]
+* link:https://www.datenschutz-berlin.de/pdf/datenschutzfolgeabschaetzung/dsfolge-nicht-oeffentlich.pdf[]
+* link:https://www.lda.brandenburg.de/media_fast/4055/DSFA_Muss-Liste_allgemein_180525.pdf[]
+* link:https://datenschutz-hamburg.de/assets/pdf/DSFA%20Muss-Liste%20f%C3%BCr%20den%20nicht-%C3%B6ffentlicher%20Bereich-HmbBfDI%20Version%201.0%20(Entwurf).pdf[]
+* link:https://datenschutz.saarland.de/fileadmin/datenschutz/ds-gvo/ds-folgenabschaetzung/Muss-Liste_SL.pdf[]
+* link:https://www.datenschutzzentrum.de/uploads/datenschutzfolgenabschaetzung/20180525_LfD-SH_DSFA_Muss-Liste_V1.0.pdf[]
+ 
+== Examples ==
+=== Internal Register of processing operations ===
+ 
+* link:https://www.impulse.de/recht-steuern/rechtsratgeber/dsgvo-checkliste/7297857.html[]
+* link:https://www.datenschutz.hessen.de/neuesdatenschutzrecht.htm[]
+* link:https://www.bvdnet.de/wp-content/uploads/2017/06/Muster_Verz_der_Verarbeitungst%C3%A4tigkeiten_TOMs.pdf[]
+ 
+=== Processing of personal data - Agreement-Annex ===
+ 
+* link:https://www.bitkom.org/Bitkom/Publikationen/Template-Agreement-Annex-Processing-of-personal-data-on-behalf-of-a-controller-in-accordance-with-Article-28-3-of-the-EU-General-Data-Protection-Regulation-GDPR.html[]
+ 
+=== Data Protection Impact Assessment ===
+ 
+* link:https://blog.lukaszolejnik.com/guidelines-to-data-protection-impact-assessment/[]
+* link:https://blog.lukaszolejnik.com/analysis-of-working-party-29-dpia-guidelines/[]
+
+== Technical Guides ==
+ 
+* link:https://techblog.bozho.net/gdpr-practical-guide-developers/[]
+ 
