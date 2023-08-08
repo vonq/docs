@@ -1,0 +1,92 @@
+* Date of last change: 08.08.2023
+
+= Sample checklist for joint controllership
+
+
+== Help to distinguish between order processing and sole/joint responsibility
+
+=== General
+
+Before a distinction can be made between sole and joint responsibility, it must first be determined whether or which parties are responsible for data protection at all. In this respect, the first step in the examination is to determine whether a body is responsible under data protection law (Art. 4 No. 7 DS-GVO) or just a processor (Art. 28 DS-GVO). If several parties are responsible, it must then be checked whether they are individually or jointly responsible (Art. 26 DS-GVO).
+When distinguishing between order processing, sole and joint responsibility, an indication can be whether or which data protection regulations have actually been made between the parties involved, i.e. an order processing contract, an agreement on joint responsibility or, if necessary, " separate control clauses ”. In this respect, however, it is always only a first indication that reflects the intention of the bodies involved. The determinations made by those involved have no constitutive effect. For example, a supposed processor may be a (co-)responsible body.
+
+
+=== Checklist for delimitation of responsibility (art. 4 no. 7 GDPR) and order processing (art. 28 GDPR)
+
+The following indications suggest that one of the parties involved is merely a processor.
+
+The more points that can be affirmed, the more likely it is that there is order processing.
+
+□	The processing of personal data takes place on the instructions of another body (acting as an "extended arm" without own decision-making powers about the purposes or essential means of processing)
+□	Only a support/help function is exercised.
+
+□	The processed personal data is provided by a customer or a similar third party or it is specified which data is to be collected.
+□	No decision on the collection of personal data
+□	No decision as to which personal data is collected
+□	No decision on the legal basis of data processing
+□	No decision on the purpose or purposes of data processing
+□	No pursuit of personal purposes with data processing 
+□	No decision as to whether and to whom the data will be passed on
+□	No decision on how long the data will be retained
+□	Deciding how the personal data will be processed, but the decision is made under a contract with another entity
+□	No interest in the end result of data processing
+□	The following indications speak for the data protection responsibility of a body:
+□	Not subject to instructions, but decision-making authority (if necessary together with other bodies) with regard to personal data processing 
+□	Decision (if necessary together with another body) that personal data will be collected or processed 
+□	Decision (if necessary together with another body) on the purposes / the intended 
+result of the personal data processing 
+□	Decision (if necessary together with another body) which/whose personal data is/are collected or further processed
+□	Decision (if necessary together with another body) on the "essential elements" of the means of data processing , such as "What data will be processed?", "How long will they be processed?", "Who has access to them?"
+□	Commercial gain or other benefit from the processing (except: remuneration for work as a processor)
+□	Data processing takes place on the basis of a contract between the body and the person concerned
+□	The data subjects are employees of the agency.
+□	Direct relationship with the data subject 
+□	Decisions about data subjects as part of or as a result of processing
+□	Decision on the legal basis of data processing 
+□	Appointment of processors who process the personal data on behalf of the entity
+□	Pursuit of own purposes by means of data processing by a - supposed - processor
+
+
+=== Checklist Demarcation of sole/joint responsibility
+
+The following indicators speak for a joint responsibility of several persons responsible:
+□	With regard to personal processing, a common purpose is pursued with others.  
+□	Joint decision on "essential elements" of the means of data processing , such as "What data will be processed?", "How long will they be processed?", "Who has access to them?"
+□	Development of the concept for the processing operations together with other responsible persons 
+□	Processing of another responsible person is initiated/influenced , e.g. by defining the selection criteria for relevant data, and benefited from their results 
+□	Processing on the basis of a uniform database , e.g. on the basis of a common database
+□	Common rules for information management with one or more other responsible parties
+Joint responsibility is not to be understood in the sense of an equal responsibility and even relatively small contributions to an alleged third-party data processing can establish a joint responsibility. A body can also be jointly responsible if it does not have access to personal data itself. The necessary (co-)decision on the purposes and means of processing does not have to be made by means of written instructions or instructions.
+
+
+The following points speak in favor of sole responsibility:
+□	There is an independent contractual relationship with the data subjects and the personal data will only be used in this context.
+□	Personal data is disclosed to other parties involved so that they can process the data for their own purposes.
+
+=== List: Processing operation with one or more third parties involved: 
+Are you a processor, a controller or a joint controller?
+
+❶ 	Do you define the purposes and essential means 
+of the processing operation in practice? 	→ 	No 	you are a 
+										processor
+	↓
+	Yes
+	You are a controller
+	↓
+❷ 	How is the relationship between you ( A ) and the other party ( B )?
+
+	You determine the purposes and essential means for the processing operation with B together.
+o	You and B are joint controllers
+	A + B
+	You determine some essential means and ends jointly with B, while others are determined separately.
+o	You are a joint controller with B for the jointly determined parts of the processing operation
+	A / B
+	You and B separately determine the purpose and essential means of the processing operation.
+o	B is controller for its own means and ends, but processor for yours.
+	A -  B
+	Only you determine the purpose and the main means of the processing operation.
+o	You are controller, B is your processor
+	A
+
+* The following checklists are based on the checklists of the supervisory authority in Great Britain (Information Commissioner's Office - ico .): ico ., Guide to the General Data Protection Regulation (GDPR), p. 14 ff.
+**The list is an extract from a diagram of the European Data Protection Supervisor (EDPS), see EDPS Guidelines on the concepts of controller , processor and joint controllership under Regulation (EU) 2018/1725, as of: November 7th, 2019, Annex 1.

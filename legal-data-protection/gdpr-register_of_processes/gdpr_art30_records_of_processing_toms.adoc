@@ -1,0 +1,9 @@
+.Technical and organizational measures (TOM)
+|===
+| |
+
+|Information according to::
+|art. 30 sec. 1 subs. 2 lit. g GDPR
+|Technical and organizational measures (TOM) 
+|A detailed description of the technical and organizational measures can be found at: TODO
+|===

@@ -9,24 +9,29 @@
 
 <<<
 
-== General
+== General - includes
 
-include::gdpr_Art30_records_of_processing_header.adoc[]
+include::gdpr_art30_records_of_processing_header.adoc[]
+include::gdpr_art30_records_of_processing_toms.adoc[]
 
-== Processing activities
+== Records of processing
 
-=== Processing activity: no.: 01
+=== Department Engineering - Product HAPI
 
-include::gdpr_Art30_records_of_processing_process_01.adoc[]
+==== Processing activity: HAPI no.: 01
 
-=== Processing activity: no.: 02
+include::gdpr_art30_records_of_processing_engineering_HAPI_process_01.adoc[]
 
-include::gdpr_Art30_records_of_processing_process_02.adoc[]
+==== Processing activity: HAPI no.: 02
 
-=== Processing activity: no.: 03
+include::gdpr_art30_records_of_processing_engineering_HAPI_process_02.adoc[]
 
-include::gdpr_Art30_records_of_processing_process_03.adoc[]
+=== Department Human Resources
 
-=== Processing activity: no.: 04
+==== Processing activity: Personio no.: 01
 
-include::gdpr_Art30_records_of_processing_process_04.adoc[]
+include::gdpr_art30_records_of_processing_HR_Personio_process_01.adoc[]
+
+==== Processing activity: Personio no.: 02
+
+include::gdpr_art30_records_of_processing_HR_Personio_process_02.adoc[]

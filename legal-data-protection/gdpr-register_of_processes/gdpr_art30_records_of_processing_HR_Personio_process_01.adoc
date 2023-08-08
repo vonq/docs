@@ -1,6 +1,6 @@
 * Date of last change: 25.05.2023
 
-.Processing Activity: HAPI Product
+.Processing Activity: HR Personio Process 01 - DUMMY DATA
 |===
 | | 
 
@@ -93,15 +93,7 @@ Luxembourg
 |The deletion periods correspond to the legal requirements, in particular the corresponding retention periods of the laws of the Netherlands.
 |===
 
-.Technical and organizational measures (TOM)
-|===
-| |
-
-|Information according to::
-|art. 30 sec. 1 subs. 2 lit. g GDPR
-|Technical and organizational measures (TOM) 
-|A detailed description of the technical and organizational measures can be found at: TODO
-|===
+include::gdpr_Art30_records_of_processing_toms.adoc[]
 
  ………………………………………    …………… 	……………………………… 
  Responsible        Date    Signature
