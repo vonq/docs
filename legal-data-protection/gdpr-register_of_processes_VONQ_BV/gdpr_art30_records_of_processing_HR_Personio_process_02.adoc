@@ -1,6 +1,6 @@
-* Date of last change: 22.08.2023
+* Date of last change: 31.08.2023
 
-.Processing Activity: HR Personio Process 01 - Onboarding Employee
+.Processing Activity: HR Personio Process 02 - Onboarding Employee
 |===
 | | 
 
@@ -16,11 +16,11 @@
 |Responsible department:
 |Human Ressources (HR)
 |Contact person
-|TODO
+|Helene Bregman
 |Phone
-|TODO
+|+31 625127759
 |Email address
-|TODO (hr@vonq.com)
+|helenebregman@vonq.com
 |===
 
 
@@ -55,7 +55,7 @@
 |art. 30 sec. 1 lit c GDPR
 
 |Data Types
-|name, first name, date of birth, personal phone number, home address, education, position at VONQ B.V., bank account
+|surname, prefixes, given name(s), initials, date of birth, nationality, gender, marital status, BSN/social security number, residential address, personal phone number, email address, bank account number, start employee contract, salary, tax discount, emergency contact; see the respective sheet: https://docs.google.com/spreadsheets/d/11I2UKIeacDxEwV_kBcyZ7C6mKkvpwPPe
 |===
 
 .Categories of Recipients

@@ -1,26 +1,26 @@
-* Date of last change: 25.05.2023
+* Date of last change: 31.08.2023
 
-.Processing Activity: HR Personio Process 02 - DUMMY DATA
+.Processing Activity: HR Personio Process 01 - Collecting Candidate Data
 |===
 | | 
 
 |Information according to:
-|art. 30 sec. 1 subs. 2 lit a GDPR
+|art. 30 sec. 1 lit a GDPR
 |Description
-|Collection and processing of personal data via HAPI Product (SaaS)
+|Collection of personal data of employment candidates
 |Date of introduction: 
 |03.03.2020
 |Date of last change:
 |03.08.2023
 
 |Responsible department:
-|Development
+|Human Ressources (HR)
 |Contact person
-|TODO
+|Helene Bregman
 |Phone
-|TODO
+|+31 625127759
 |Email address
-|dpo@vonq.com
+|helenebregman@vonq.com
 |===
 
 
@@ -29,10 +29,10 @@
 | | 
 
 |Information according to:
-|art. 30 sec. 1 subs. 2 lit b GDPR
+|art. 30 sec. 1 lit b GDPR
 
 |Purposes of processing
-|Publication of job postings as fulfillment of contractual obligations.
+|Enabling VONQ B.V. to gather, collect and evaluate candidates for employment
 |===
 
 
@@ -41,10 +41,10 @@
 | | 
 
 |Information according to::
-|art. 30 sec. 1 subs. 2 lit c GDPR
+|art. 30 sec. 1 lit c GDPR
 
 |Data Subjects
-|Recruiting personnel of VONQ clients
+|VONQ B.V. employment candidates
 |===
 
 .Data Types
@@ -52,10 +52,10 @@
 | | 
 
 |Information according to::
-|art. 30 sec. 1 subs. 2 lit c GDPR
+|art. 30 sec. 1 lit c GDPR
 
 |Data Types
-|name, first name, phone number, address
+|TODO
 |===
 
 .Categories of Recipients
@@ -63,10 +63,10 @@
 | | 
 
 |Information according to::
-|art. 30 sec. 1 subs. 2 lit d GDPR
+|art. 30 sec. 1 lit d GDPR
 
 |Categories of recipients to whom the personal data has been or will be disclosed.
-|Internally, the Technologies, Implementation and Support departments have access rights; External persons (candidates) interested in the published postings can access the personal data via the job boards through which the personal data is published.
+|Internally, the HR department has access rights; Externally personal data collected is processed by Smartrecruiters (SmartRecruiters, Inc., 166 Geary St, San Francisco CA 94108 US). Personal data of candidates celected for employment will be processed by Personio SE & Co. KG (https://www.personio.de).
 |===
 
 .Transmission of the data
@@ -74,20 +74,19 @@
 | | 
 
 |Information according to::
-|art. 30 sec. 1 subs. 2 lit e GDPR
+|art. 30 sec. 1 lit e GDPR
 
 |Possibly transfers of personal data to a third country or to an international organization. The data transfer takes place as follows:
-|A transfer to a third country or an international organization within the meaning of Art. 30 sec. 1 subs. 2 lit e, 44 GDPR takes place insofar as the data are either transmitted to Amazon Web Services, Inc. or processed on behalf of them.
+|A transfer to a third country or an international organization within the meaning of Art. 30 sec. 1 lit e, 44 GDPR takes place insofar as the personal data is processed by Personio SE & Co. KG (https://www.personio.de)
 
 |Data transmission does not take place and is not planned.
-|A data transmission within the meaning of art. 30 sec. 1 subs. 2 lit e GDPR takes place, either in the form of a transmission to Amazon Web Services, Inc. or as part of order data processing by Amazon Web Services, Inc.
+|A data transmission to a country 
 
 |Specific data recipients
-|Amazon Web Services EMEA SARL - 38 Avenue John F. Kennedy, L-1855,
-Luxembourg
+|Personio SE & Co. KG (https://www.personio.de)
 
 |Data Transmission according to art. 49 sec. 1 subs. 2 GDPR.
-|N/A
+|N/A 
 
 |Retention period in the sense of art. 30 sec. 1 subs. 2 lit. f GDPR
 |The deletion periods correspond to the legal requirements, in particular the corresponding retention periods of the laws of the Netherlands.
