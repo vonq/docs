@@ -11,8 +11,7 @@
 
 == General - includes
 
-* include::gdpr_art30_header.adoc[]
-* include::../gdpr-register_of_processes_VONQ_BV/gdpr_art30_toms.adoc[]
+include::gdpr_art30_header.adoc[]
 
 == Records of processing
 
@@ -22,16 +21,20 @@
 
 ===== Processing activity: HAPI no.: 01
 
-include::gdpr_art30_engineering_HAPI_process_01.adoc[]
+TODO: include::gdpr_art30_engineering_HAPI_process_01.adoc[]
 
 === Department: Finance
 
 ===== Processing activity: Basecone no.: 01
 
-include::gdpr_art30_finance_Basecone_process_01.adoc[]
+TODO: include::gdpr_art30_finance_Basecone_process_01.adoc[]
 
 === Department: Human Resources
 
 ==== Processing activity: Personio no.: 01
 
-include::gdpr_art30_HR_Personio_process_01.adoc[]
+TODO: include::gdpr_art30_HR_Personio_process_01.adoc[]
+
+== Technical and organisational measures
+
+include::../gdpr-register_of_processes_VONQ_BV/gdpr_art30_toms.adoc[]

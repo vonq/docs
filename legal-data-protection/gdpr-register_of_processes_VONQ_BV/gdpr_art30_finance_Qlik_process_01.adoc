@@ -16,7 +16,7 @@
 |Responsible department:
 |Finance, Stephanie Hosman
 |Contact person
-|Muhammad Ibnu Fajar
+|Lijo Lorance
 |Phone
 |TODO
 |Email address
@@ -32,7 +32,7 @@
 |art. 30 sec. 1 lit b GDPR
 
 |Purposes of processing
-|Enabling VONQ B.V. to process purchasing invoices
+|Enabling VONQ B.V. reporting
 |===
 
 
@@ -44,7 +44,7 @@
 |art. 30 sec. 1 lit c GDPR
 
 |Data Subjects
-|Employees of suppliers
+|Employees
 |===
 
 .Data Types
@@ -55,7 +55,7 @@
 |art. 30 sec. 1 lit c GDPR
 
 |Data Types
-|Contact data, such as name, address, email and bank account
+|Contact data, such as TODO
 |===
 
 .Categories of Recipients
@@ -66,7 +66,7 @@
 |art. 30 sec. 1 lit d GDPR
 
 |Categories of recipients to whom the personal data has been or will be disclosed.
-|Internally, the Finance department has access rights.
+|TODO
 |===
 
 .Transmission of the data
@@ -77,22 +77,23 @@
 |art. 30 sec. 1 lit e GDPR
 
 |Possibly transfers of personal data to a third country or to an international organization. The data transfer takes place as follows:
-|Data transfer via Twinfield application (https://www.wolterskluwer.com/en/solutions/twinfield-accounting).
+|TODO (Data transfer via Salesforce/GRIPP)
 
 |Data transmission does not take place and is not planned.
 |A data transmission to a country 
 
 |Specific data recipients
-|TODO (2023 Wolters Kluwer N.V. (https://www.wolterskluwer.com/en/solutions/twinfield-accounting))
+|TODO
 
 |Data Transmission according to art. 49 sec. 1 subs. 2 GDPR.
 |N/A 
 
 |Retention period in the sense of art. 30 sec. 1 subs. 2 lit. f GDPR
-|The data is not reviewed for deletion. Currently we do not have a retention policy in place.
+|The data is not reviewed for deletion. Currently there is no retention policy in place.
 |===
 
  ………………………………………    …………… 	……………………………… 
  Responsible        Date    Signature
 
 include::gdpr_Art30_toms.adoc[]
+

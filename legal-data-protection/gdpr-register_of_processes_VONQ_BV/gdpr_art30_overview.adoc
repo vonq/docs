@@ -9,10 +9,9 @@
 
 <<<
 
-== General - includes
+== General - Entity information
 
-* include::gdpr_art30_header.adoc[Header for all process files]
-* include::gdpr_art30_toms.adoc[Technical and organisational measures im plemented by VONQ B.V.]
+include::gdpr_art30_header.adoc[Header for all process files]
 
 == Records of processing
 
@@ -55,3 +54,7 @@ include::gdpr_art30_HR_Personio_process_01.adoc[]
 ==== Processing activity: Personio no.: 02
 
 include::gdpr_art30_HR_Personio_process_02.adoc[]
+
+== Technical and organisational measures
+
+include::gdpr_art30_toms.adoc[Technical and organisational measures im plemented by VONQ B.V.]
