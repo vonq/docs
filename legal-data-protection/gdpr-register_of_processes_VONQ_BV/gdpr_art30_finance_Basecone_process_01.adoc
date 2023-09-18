@@ -1,6 +1,6 @@
 * Date of last change: 31.08.2023
 
-.Processing Activity: HR Personio Process 01 - Collecting Candidate Data
+.Processing Activity: Finance Basecone Process 01 - Purchase Invoice Processing
 |===
 | | 
 
@@ -11,16 +11,16 @@
 |Date of introduction: 
 |03.03.2020
 |Date of last change:
-|03.08.2023
+|18.09.2023
 
 |Responsible department:
-|Human Ressources (HR)
+|Finance, Stephanie Hosman
 |Contact person
-|Helene Bregman
+|Muhammad Ibnu Fajar
 |Phone
-|+31 625127759
+|+TODO
 |Email address
-|helenebregman@vonq.com
+|TODO
 |===
 
 
@@ -32,7 +32,7 @@
 |art. 30 sec. 1 lit b GDPR
 
 |Purposes of processing
-|Enabling VONQ B.V. to gather, collect and evaluate candidates for employment
+|Enabling VONQ B.V. process purchasing invoices
 |===
 
 
@@ -44,7 +44,7 @@
 |art. 30 sec. 1 lit c GDPR
 
 |Data Subjects
-|VONQ B.V. employment candidates
+|Employees of suppliers
 |===
 
 .Data Types
@@ -55,7 +55,7 @@
 |art. 30 sec. 1 lit c GDPR
 
 |Data Types
-|TODO
+|Contact data, such as  
 |===
 
 .Categories of Recipients
@@ -92,7 +92,7 @@
 |The deletion periods correspond to the legal requirements, in particular the corresponding retention periods of the laws of the Netherlands.
 |===
 
-include::gdpr_Art30_records_of_processing_toms.adoc[]
+include::gdpr_Art30_toms.adoc[]
 
  ………………………………………    …………… 	……………………………… 
  Responsible        Date    Signature

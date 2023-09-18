@@ -1,0 +1,112 @@
+.Technical and organizational measures (TOM)
+|===
+| |
+
+|Information according to::
+|art. 30 sec. 1 subs. 2 lit. g GDPR
+|Technical and organizational measures (TOM) 
+|A detailed description of the technical and organizational measures:
+|===
+
+== 1. 	Confidentiality (article 32 para. 1 lit. (b) GDPR)
+
+=== Access control to premises and facilities (physical access control)
+Objective: Unauthorised access to premises and facilities must be prevented.
+
+- Employees can only gain entry to the office building with a personalized key card.
+- Visitors are welcomed at the reception, picked up by a member of the relevant department and escorted by the respective VONQ employee(s).
+- 
+- Securing office in out-of-work-hours by site alarm system.
+- CCTV surveillance.
+- Storage of hardware in access-protected cupboards.
+ 
+=== System access control (hardware access control
+
+Objective: No access to data processing systems by unauthorized persons.
+Authentication and authorization are required throughout the entire data-processing system. Entering a username and password is always required.
+
+Password is subject to restrictions set forth in the internal Password Policy. E.g.:
+- after the first login, the password has to be changed,
+- the password must be changed regularly by the user,
+- repeated use of the same password is prevented by the system.
+
+Users will be blocked after three incorrect login attempts and can only be unblocked by the internal IT.
+
+VONQ utilizes network segmentation (VLAN). Gateways are protected by firewalls and are being monitored. The internal local area network (LAN) is divided into several segments, including a VONQ WiFi segment and a separate public segment for visitors. Production and test systems are separated at an operating system level and placed in different networks.
+ 
+=== Access control to data (software access control)
+
+Objective: Unauthorised activities in data processing systems outside of assigned authorisations must be prevented.
+
+Based on their username users are restricted to certain roles for certain applications.
+
+Application users can access personal identifiable information (hereinafter “PII”) only to the extent required for the specific role.
+
+Additionally PII is stored and transmitted in an encrypted form as far as technically possible.
+
+=== Separation Control
+
+Objective: Data collected for different purposes must be processed separately
+Logical data separation per application (one application cannot access other applications).
+
+PII is separated logically on a per customer basis.
+
+Separation of development, staging, and production systems: Anonymized datasets are being used for development and staging environments.
+
+At all times transactional data is kept separate from the PII retained or used for another purpose.
+ 
+== 2.	Integrity, availability and resilience of systems (article 32 para. 1 lit. (b) GDPR)
+
+=== Transfer control
+Objective: Protection of PII from unauthorized reading, modification or deletion.
+
+State of the art encryption is utilized for every PII data transfer, utilizing protocols such as SSH, SFTP, SCP, HTTPS and TLS.
+
+Volume and file encryption are utilized whenever possible.
+Disposal operators destroy discarded hardware, data carriers and printouts.
+
+=== Input control
+Objective: Traceability of entries; modification or deletion of data.
+
+Personal Data is inputted via automated processes (i.e. the collection of IP addresses). Every automated input is logged and can be traced.
+
+Where data is manually inputted by employees (e.g. name, contact details), identifiable electronic signatures are being utilized wherever possible.
+
+Modifications and deletions are marked with identifiable electronic signatures wherever possible.
+ 
+== 3.	Availability and access (article 32 para. 1 lit. (c) GDPR)
+Objective: Data loss prevention and recovery in a timely manner.
+
+On an infrastructure level fault tolerant systems are deployed and whenever possible systems are decentralized.
+
+Backups are redundant and kept in secure locations on-site and off-site.
+Restore and retrieval processes are tested on a regular basis.
+ 
+== 4.	Procedures for regular testing, assessing, and evaluating (article 32 para. 1 lit. (d) GDPR)
+
+=== Control Procedures
+
+Objective: Procedures have to be implemented to ensure regularly testing, assessment and evaluation of the effectiveness of the data security measures.
+
+VONQ undergoes an annual penetration test conducted by an independent and external consultant. Feedback is implemented accordingly to improve Services and security.
+
+Security measures are subject to internal and external audits.
+
+Notification of the Data Protection Officer and the Chief Technology Officer about new or adjusted data processing procedures.
+
+VONQ is ISO 27001 certified.
+ 
+=== Control of Instructions
+
+Objective: Data shall only be processed by service providers, such as subcontractors, in accordance to the instructions of VONQ.
+
+Contracts with Data Protection Agreements according to the requirements of article 28 GDPR are concluded.
+
+Contract management through centralised registration of subcontractors.
+
+== 5.	Pseudonymisation and encryption (article 32 para. 1 lit. (a) GDPR)  	
+
+Objective: PII shall be collected, processed and retained encrypted and in a pseudonymous way.
+Whenever possible PII collected by VONQ can no longer be attributed to a specific Data Subject without further information. Such additional information is being kept separately.
+
+All web applications and communication between networks of VONQ are encrypted via SSL/TLS (data in transfer). As mentioned above, PII is retained on encrypted volumes whenever possible (data in rest).

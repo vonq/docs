@@ -11,9 +11,9 @@
 |City
 |Rotterdam
 |Phone
-|$_phone_number
+|+31102014800
 |Email address
-|$email_address
+|hello@vonq.com
 |Internet address
 |https://www.vonq.com
 |===
@@ -33,7 +33,7 @@
 |Phone
 |$_phone_number
 |Email address
-|$email_address
+|arno@vonq.com
 |===
 
 .Data Protection Officer (external)
@@ -49,7 +49,7 @@
 |City
 |Rotterdam
 |Phone
-|$_phone_number
+|+491727074861
 |Email address
-|$email_address
+|dpo@vonq.com
 |===

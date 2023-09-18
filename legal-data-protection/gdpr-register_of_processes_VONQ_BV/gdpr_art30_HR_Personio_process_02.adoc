@@ -92,7 +92,7 @@
 |The deletion periods correspond to the legal requirements, in particular the corresponding retention periods of the laws of the Netherlands.
 |===
 
-include::gdpr_Art30_records_of_processing_toms.adoc[]
+include::gdpr_Art30_toms.adoc[]
 
  ………………………………………    …………… 	……………………………… 
  Responsible        Date    Signature

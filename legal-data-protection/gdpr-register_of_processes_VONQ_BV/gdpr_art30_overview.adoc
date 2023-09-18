@@ -1,0 +1,57 @@
+
+= Records of processing - (art. 30 GDPR) - VONQ B.V. - (EN)
+
+:toc:
+:toclevels: 4
+:toc-title: Records of Processing - VONQ B.V.
+:description: Records of Processing according to art. 30 GDPR VONQ B.V.
+:sectnums:
+
+<<<
+
+== General - includes
+
+* include::gdpr_art30_header.adoc[Header for all process files]
+* include::gdpr_art30_toms.adoc[Technical and organisational measures im plemented by VONQ B.V.]
+
+== Records of processing
+
+=== Department: Engineering
+
+==== Product HAPI
+
+===== Processing activity: HAPI no.: 01
+
+include::gdpr_art30_engineering_HAPI_process_01.adoc[]
+
+===== Processing activity: HAPI no.: 02
+
+include::gdpr_art30_engineering_HAPI_process_02.adoc[]
+
+=== Department: Finance
+
+===== Processing activity: Basecone no.: 01
+
+include::gdpr_art30_finance_Basecone_process_01.adoc[]
+
+===== Processing activity: Twinfield no.: 01
+
+include::gdpr_art30_finance_Twinfield_process_01.adoc[]
+
+===== Processing activity: ExactOnline no.: 01
+
+include::gdpr_art30_finance_ExactOnline_process_01.adoc[]
+
+===== Processing activity: Qlik no.: 01
+
+include::gdpr_art30_finance_Qlik_process_01.adoc[]
+
+=== Department: Human Resources
+
+==== Processing activity: Personio no.: 01
+
+include::gdpr_art30_HR_Personio_process_01.adoc[]
+
+==== Processing activity: Personio no.: 02
+
+include::gdpr_art30_HR_Personio_process_02.adoc[]

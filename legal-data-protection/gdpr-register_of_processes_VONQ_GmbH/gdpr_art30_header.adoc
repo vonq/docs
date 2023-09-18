@@ -1,0 +1,55 @@
+.Contact Information (VONQ GmbH)
+|===
+| | 
+
+|Name
+|VONQ GmbH
+|Street
+|Georg-Glock-Str. 8
+|ZIP code
+|40474
+|City
+|Düsseldorf
+|Phone
+|+4921196659776
+|Email address
+|kontakt@vonq.com
+|Internet address
+|https://www.vonq.com/de/
+|===
+
+.Authorized Representative - CEO
+|===
+| | 
+
+|Name
+|Arno Schäfer
+|Street
+|Georg-Glock-Str. 8
+|ZIP code
+|40474
+|City
+|Düsseldorf
+|Phone
+|$_phone_number
+|Email address
+|arno@vonq.com
+|===
+
+.Data Protection Officer (external)
+|===
+| | 
+
+|Name
+|Martin Behrens
+|Street
+|Georg-Glock-Str. 8
+|ZIP code
+|40474
+|City
+|Düsseldorf
+|Phone
+|+491727074861
+|Email address
+|dpo@vonq.com
+|===

@@ -1,0 +1,98 @@
+* Date of last change: 31.08.2023
+
+.Processing Activity: HR Personio Process 01 - Collecting Candidate Data
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 lit a GDPR
+|Description
+|Collection of personal data of employment candidates
+|Date of introduction: 
+|03.03.2020
+|Date of last change:
+|03.08.2023
+
+|Responsible department:
+|Human Ressources (HR)
+|Contact person
+|Helene Bregman
+|Phone
+|+31 625127759
+|Email address
+|helenebregman@vonq.com
+|===
+
+
+.Purpose of the processing activity
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 lit b GDPR
+
+|Purposes of processing
+|Enabling VONQ B.V. to gather, collect and evaluate candidates for employment
+|===
+
+
+.Data Subjects
+|===
+| | 
+
+|Information according to::
+|art. 30 sec. 1 lit c GDPR
+
+|Data Subjects
+|VONQ B.V. employment candidates
+|===
+
+.Data Types
+|===
+| | 
+
+|Information according to::
+|art. 30 sec. 1 lit c GDPR
+
+|Data Types
+|TODO
+|===
+
+.Categories of Recipients
+|===
+| | 
+
+|Information according to::
+|art. 30 sec. 1 lit d GDPR
+
+|Categories of recipients to whom the personal data has been or will be disclosed.
+|Internally, the HR department has access rights; Externally personal data collected is processed by Smartrecruiters (SmartRecruiters, Inc., 166 Geary St, San Francisco CA 94108 US). Personal data of candidates celected for employment will be processed by Personio SE & Co. KG (https://www.personio.de).
+|===
+
+.Transmission of the data
+|===
+| | 
+
+|Information according to::
+|art. 30 sec. 1 lit e GDPR
+
+|Possibly transfers of personal data to a third country or to an international organization. The data transfer takes place as follows:
+|A transfer to a third country or an international organization within the meaning of Art. 30 sec. 1 lit e, 44 GDPR takes place insofar as the personal data is processed by Personio SE & Co. KG (https://www.personio.de)
+
+|Data transmission does not take place and is not planned.
+|A data transmission to a country 
+
+|Specific data recipients
+|Personio SE & Co. KG (https://www.personio.de)
+
+|Data Transmission according to art. 49 sec. 1 subs. 2 GDPR.
+|N/A 
+
+|Retention period in the sense of art. 30 sec. 1 subs. 2 lit. f GDPR
+|The deletion periods correspond to the legal requirements, in particular the corresponding retention periods of the laws of the Netherlands.
+|===
+
+include::gdpr_Art30_toms.adoc[]
+
+ ………………………………………    …………… 	……………………………… 
+ Responsible        Date    Signature
