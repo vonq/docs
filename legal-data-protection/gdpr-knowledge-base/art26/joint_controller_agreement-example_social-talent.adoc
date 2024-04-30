@@ -1,0 +1,353 @@
+
+
+
+Exhibit A - Detailed description of the project or purpose
+Exhibit B - Detailed responsibilities of each Party
+Exhibit C - Data Protection Agreement
+
+Exhibit A
+Purpose:
+This Agreement sets forth the terms and conditions under which VONQ B.V. ("VONQ") and
+Socialtalent ("Socialtalent") will collaborate to co-host an online webinar(s) and other
+marketing initiatives as applicable, aimed at enhancing their respective marketing initiatives
+within the recruitment industry.
+Project Description:
+VONQ and Socialtalent, leading companies in the recruitment marketing industry, are joining
+forces to organize a dynamic online webinar(s) as part of a strategic marketing initiative. This
+collaborative effort aims to leverage the expertise and resources of both companies to provide
+valuable insights and actionable strategies to a diverse audience comprising the customers of
+VONQ, the customers of Socialtalent, and the general public interested in recruitment
+marketing trends.
+The webinar will feature engaging presentations, discussions, and interactive sessions led by
+industry experts from both VONQ and Socialtalent. Topics will include but are not limited to:
+innovative recruitment marketing strategies, emerging trends in talent acquisition, maximizing
+the impact of employer branding, and leveraging technology for recruitment success.
+Key objectives of the webinar include:
+● Educating attendees on cutting-edge recruitment marketing practices.
+● Providing actionable insights to help attendees optimize their recruitment strategies.
+● Facilitating networking and knowledge-sharing among participants.
+● Strengthening the brand presence and thought leadership of both VONQ and
+Socialtalent in the recruitment industry.
+As part of this collaboration, VONQ and Socialtalent will share information regarding webinar
+attendees, including but not limited to contact details and participation metrics. This
+information will be used for the purpose of facilitating future communications and
+collaborations between the two companies as well as generating marketing leads. The
+information will be handled in accordance with applicable data protection regulations as further
+defined in Exhibit C.
+By entering into this Agreement, both parties commit to delivering a high-quality webinar
+experience that adds value to attendees while advancing their respective marketing
+objectives. Through this collaboration, VONQ and Socialtalent reaffirm their dedication to
+innovation and excellence in the recruitment marketing space.
+
+Exhibit B
+This Exhibit B aims at defining the respective responsibilities of each Party in ensuring that
+the collaboration is a success to the benefit of both Parties.
+Joint Responsibilities;
+Content Development and Speaker Arrangements:
+Planning the webinar's content, including selecting topics that appeal to the target audience.
+Identifying and inviting speakers or panellists, potentially including experts from both organizations.
+Marketing and Promotion:
+Both Parties will cooperate to develop and execute a marketing plan to promote the webinar to the target
+audience.
+Each Party will create promotional materials, such as banners, social media posts, and email templates for
+promotion as required.
+Each Party will manage attendee data in compliance with data protection and privacy laws.
+Technical Setup and Support:
+Each Party will engage in technical rehearsals to ensure all speakers are familiar with the platform and to
+minimize technical issues during the event.
+SocialTalent Responsibilities;
+Technical Setup and Support:
+SocialTalent will host the webinar on Zoom or an alternative platform if needed.
+Registration and Attendee Management:
+Social Talent will set up a registration process, including the creation of a landing page for the webinar where
+potential attendees can register.
+
+
+Exhibit C
+Joint Controller Agreement
+THE UNDERSIGNED:
+1. VONQ B.V., a Dutch limited liability company incorporated under the laws of The
+Netherlands, having its registered offices at Rotterdam, with its principal place of
+business at Beursplein 37, (3011 AA) Rotterdam, registered at the Dutch Chamber of
+Commerce under registration number 24402216, duly represented by CEO Arno
+Schäfer, (hereinafter “VONQ”),
+and
+2. XYZ, a company incorporated and registered in Ireland with registered
+number 491073 and having its registered office at XYZ and duly represented by XYZ
+(hereinafter “Partner” or “XYZ”),
+VONQ and Partner hereinafter being collectively referred to as “Parties” and individually also
+as “Party”;
+WHEREAS:
+a) VONQ is the expert in smart recruitment marketing. With the use of rich recruitment
+data, innovative tools and recruitment marketing knowledge, VONQ helps
+companies to recruit more effectively and efficiently;
+b) Social Talent has developed a digital platform benefiting individuals and
+businesses in the recruiting and other marketplaces. The platform provides users
+with a variety of training resources targeted to various industry sectors including
+the recruiting industry. Social Talent is a leading learning platform dedicated to
+hiring and talent management, Social Talent has developed certain software
+applications and platforms which it makes available to subscribers via the internet
+for the purpose of delivering training and software tools and analysis. Social
+Talent’s service enables companies to upskill and train their staff to hire, onboard,
+engage, develop and train their staff, the Social Talent platform provides training
+content for every stage of the employee lifecycle;
+c) The parties have integrated their systems in order to jointly operate the services
+offered to customers using the Services of VONQ and the services of the Partner;
+d) Every Party is competent for the Processing of Personal Data in its respective
+operating range. VONQs operating range (hereinafter the “Assignment”) defines
+the object and scope of the Processing of Personal Data to be provided by VONQ.
+e) Parties therefore wish to reflect the Parties’ Agreement regarding the Processing
+of Personal Data in compliance with the relevant Data Protection Laws and
+Regulations.
+HAVE AGREED AS FOLLOWS:
+1. Definitions
+1.1. Unless otherwise defined, capitalized terms, singular or plural, used in this JCA
+shall have the meaning as set out below:
+Agreement This agreement including the attached Annexes;
+Annex Each Annex to this Agreement which forms part of the
+Agreement.
+Controller The natural or legal person, public authority, agency or
+other body which, alone or jointly with others,
+determines the purposes and means of the Processing
+of Personal Data.
+Data
+Protection
+Laws and
+Regulations
+All laws and regulations, including laws and regulations
+of the European Union and their member states,
+applicable to the Processing of Personal Data, such as
+but not limited to the GDPR and the laws and
+regulations implementing the latter within the member
+states of the European Union.
+Data
+Subject
+An identified or identifiable natural person, the latter
+being one who can be identified, directly or indirectly, in
+particular by reference to an identifier such as a name,
+an identification number, location data, an online
+identifier or to one or more factors specific to the
+physical, physiological, genetic, mental, economic,
+cultural or social identity of that natural person.
+JCA This Joint Controller Agreement between Partner and
+VONQ, that is binding on VONQ with regard to Partner
+and sets out the subject-matter of the Processing of
+Personal Data.
+European
+Union
+The member states of the European Union and, if and
+when the GDPR is incorporated within the EEA
+Agreement, the member states of the European Free
+Trade Association.
+GDPR Regulation (EU) 2016/679 of the European Parliament
+and of the Council of 27 April 2016 on the protection of
+natural persons with regard to the processing of
+personal data and on the free movement of such data,
+and repealing Directive 95/46/EC.
+Personal
+Data
+Any information relating to a Data Subject.
+Personal
+Data
+Breach
+A breach of security leading to the accidental or unlawful
+destruction loss, alteration, unauthorised disclosure of,
+or access to, Personal Data transmitted, stored or
+otherwise processed.
+Processing Any operation or set of operations which is performed
+upon Personal Data or sets of Personal Data, whether
+or not by automated means such as collection,
+recording, organisation, structuring, storage, adaptation
+or alteration, retrieval, consultation, use, disclosure by
+transmission, dissemination or otherwise making
+available, alignment or combination, restriction, erasure
+or destruction.
+Service(s) Any service to be provided by VONQ, including but not
+limited to VONQ Job Post including add-ons
+(hereinafter “JP”), VONQ Job Marketing (hereinafter
+“JM”), VONQ Recruitment Marketing (hereinafter “RM”)
+or VONQ Hiring API including add-ons (hereinafter
+“HAPI”).
+Third-Party
+Platform
+Platforms such as but not limited to job portals, job
+boards, channels and/or media providers on which the
+Recruitment Marketing Campaigns and/or Job Postings
+and Publications are placed by VONQ on behalf of the
+Partner.
+Vacancy
+Data
+Any information voluntarily provided by the Partner to
+post or update a Job Posting, Job Publication and/or
+Recruitment Marketing Campaign on a Third-Party
+Platform.
+2. Subject Matter
+2.1. The subject matter of this JCA concerns the Processing of Personal Data to allow
+the performance of the Assignment.
+2.2. With respect to Personal Data under joint control of the Parties, the Parties
+envisage that they shall each be a Controller in respect of that Personal Data in
+their respective operating range.
+2.3. Regarding the Processing of Personal Data the provisions of this JCA supersede
+all previous understandings and agreements between the Parties. In the event of
+any conflict between the provisions of other agreements and this JCA the latter
+shall prevail.
+2.4. The term of this Agreement shall correspond to the term of the main contract
+unless the subsequent provisions contain obligations or termination rights
+contrary to the foregoing.
+3. Specification of Processing
+3.1. Nature and purpose of the intended Processing by VONQ
+In context of joint controllership, VONQ is competent for the Processing of
+Personal Data for marketing purposes, analysis and as agreed between the
+Parties includes gathering data from webinar attendees; analysing such data for
+lead generation; and marketing purposes, and to contact potential customers
+about VONQ’s recruitment marketing solutions. The Processing may concern the
+following categories of data: name and contact information. The legal basis for
+the Processing of Personal Data is consent.
+3.2. Nature and purpose of the intended Processing by Partner
+In the context of joint controllership, Partner is competent for the Processing of
+Personal Data for marketing purposes, analysis and as agreed between the Parties
+includes [ gathering data from webinar attendees; analysing such data for lead
+generation; and marketing purposes, and to contact potential customers about
+Socialtalent’s recruitment marketing solutions. The Processing may concern the
+following categories of data: name and contact information. The legal basis for the
+Processing of Personal Data is consent.
+4. Compliance
+4.1. Parties shall Process Personal Data in accordance with the requirements of the
+GDPR, particularly in regards to the lawfulness of data processing under joint
+controllership.
+4.2. The Parties shall take all necessary technical and organisational measures to
+ensure that the rights of data subjects, in particular those pursuant to Articles 12
+to 22 GDPR, are guaranteed at all times within the statutory time limits.
+5. Obligations of the Parties
+5.1. The Parties shall store Personal Data in a structured, commonly used, and
+machine-readable format.
+5.2. Parties shall ensure that only Personal Data which are strictly necessary for the
+legitimate conduct of the process are collected. Moreover, both contracting
+Parties agree to observe the principle of data minimisation within the meaning of
+article 5 para. 1 lit. (c) GDPR.
+5.3. The Parties commit themselves to provide the Data Subject with any information
+referred to in articles 13 and 14 of the GDPR in a concise, transparent, intelligible,
+and easily accessible form, using clear and plain language. The information shall
+be provided free of charge. The Parties agree that Partner provides the
+information on the Processing of Personal Data .
+5.4. The Data Subject may exercise his or her rights under articles 15 to 22 GDPR
+against each of the joint controllers. In principle, the Data Subject may receive
+the requested information from the contracting Party to whom the request was
+made.
+5.5. If a Data Subject exercises his or her rights against one of the Parties, in
+particular of the rights of access, correction, or deletion of his or her Personal
+Data, the Parties are obliged to forward this request to the respective other Party
+without undue delay. This applies irrespective of the general obligation to
+guarantee the right of Data Subjects. The Party receiving the request must
+immediately provide the information within its operating range to the requesting
+Party.
+5.6. If Personal Data are to be deleted, the Parties shall inform each other in
+advance. A Party may object to the deletion for a legitimate interest, for example,
+if there is a legal obligation to retain the data set for deletion.
+6. Informing the Data Subject
+Pursuant to article 26 para. 2 GDPR the Partner undertakes to communicate the
+essential content of the Agreement to the Data Subjects.
+7. Personal Data Breaches
+7.1. Both Parties are obliged to inform the supervisory authority and the Data Subjects
+affected by a violation of the protection of Personal Data in accordance with
+articles 33 and 34 GDPR concerning their operating ranges. The Parties shall
+inform each other about any such notification to the supervisory authority without
+undue delay.
+7.2. In case of a Personal Data Breach, Parties hereby are obliged to keep all
+information regarding the Personal Data Breach or the incident confidential.
+Parties will, under no circumstances, publish or make publicly available any
+information regarding the Personal Data Breach or the security incident without
+the prior written permission of the other Party, unless this information needs to
+be published or made publicly available pursuant to an order of a supervising
+authority or such is necessary to comply with Data Protection Laws and
+Regulations.
+8. Documentation
+8.1. Documentation within the meaning of article 5 para. 2 GDPR, which serve as
+proof of proper data processing, shall be archived by each Party beyond the end
+of the Agreement in accordance with legal provisions and obligations.
+8.2. If a data protection impact assessment pursuant to article 35 GDPR is required,
+the Parties shall support each other.
+8.3. The Parties shall include the processing operations in the records of processing
+activities pursuant to article 30 para. 1 GDPR, in particular, with a comment on
+the nature of the processing operation as one of joint or sole responsibility
+9. Confidentiality and Compliance
+9.1. Within their operating range, the Parties shall ensure that all employees
+authorised to Process Personal Data have committed themselves to
+confidentiality or are under an appropriate statutory obligation of confidentiality in
+accordance with articles 28 para. 3, 29, and 32 GDPR for the duration of their
+employment, as well as after termination of their employment. The Parties shall
+also ensure that they observe the data secrecy provisions prior to taking up their
+duties and are familiarised with the Data Protection laws and legislation relevant
+to them. This obligation shall, after termination of this JCA, the Agreement or
+other agreements between Parties, survive for an unlimited period of time.
+9.2. The Parties shall independently ensure that they are able to comply with all
+existing storage obligations with regard to Personal Data. For this purpose, the
+Parties must implement appropriate technical and organisational measures
+(article 32 et seq. GDPR). This applies particularly in the case of termination of
+the Agreement.
+9.3. The implementation, default-setting, and operation of the systems shall be
+carried out in compliance with the requirements of the Data Protection Laws and
+Regulations.
+10. Sub-Processing
+In respect any Processing of Personal Data performed by a third party on behalf of a
+Party, that Party shall carry out adequate due diligence on such third party to ensure
+that it is capable of providing the level of protection for the Personal Data as is required
+by the Agreement, provide evidence of such due diligence to the other Party where
+reasonably requested, and ensure that a suitable agreement is in place with the third
+party as required under applicable Data Protection Laws and Regulations.
+11. Duration
+11.1. This JCA enters into effect upon signature by both Parties and is valid
+for the duration of the main contract. Any subsequent contract(s) for a new
+Assignment of the JP product shall be bound by this JCA. The JCA can be
+terminated by either Party with a notice period of 3 (three) months. The
+duration of the Processing is equal to the duration of the JCA.
+11.2. Each party may terminate the JCA with immediate effect, by notice given in
+writing by means of communication ensuring evidence and date of receipt
+(e.g. registered mail with return receipt, special courier), without judicial
+intervention being necessary and maintaining a notice period of three (3)
+months.
+11.3. Parties are entitled to immediately terminate the JCA by notice in writing and
+without maintaining a notice period, in case the other Party:
+11.3.1. enters into liquidation, whether compulsory or voluntarily
+(otherwise than for purposes of a solvent amalgamation or
+reconstruction);
+11.3.2. is or is declared insolvent;
+11.3.3. is the subject of a notice of appointment of an administrator, or
+a notice of intention to appoint an administrator or liquidator.
+11.4. When VONQ possesses, after the termination of the Assignment, any
+Personal Data as received from Partner, this Personal Data shall be deleted,
+or – such at the discretion of Partner – be returned to Partner, whereby VONQ
+shall delete existing copies, the foregoing save for the situation wherein
+VONQ is obliged to keep the Personal Data on the basis of applicable laws or
+regulations of the European Union or its members.
+11.5. Article 9 (Confidentiality and Compliance) and article 13 (Miscellaneous) will
+survive for an unlimited period of time after termination or rescission, no
+matter the grounds of this termination or rescission, of this JCA.
+12. Liability
+12.1. Notwithstanding the provisions of this contract, the Parties shall be liable for
+damages resulting from processing that fails to comply with the GDPR. In
+external relations they are jointly liable to the persons concerned.
+12.2. In the internal relationship the Parties are liable, notwithstanding the
+provisions of this contract, only for damages which have arisen within their
+operating range.
+13. Miscellaneous
+13.1. This Agreement may be altered or supplemented only in writing and provided
+any such amendment is signed by the duly authorized representatives of both
+Parties.
+13.2. If any provision of this Agreement is held invalid, illegal, or unenforceable for
+any reason, such provision shall be severed, and the remainder of the
+provisions hereof shall continue in full force and effect as if this Agreement
+has been executed with the invalid provision eliminated.
+13.3. This JCA is exclusively governed by the laws of the Netherlands.
+13.4. Any disputes that may arise between Parties, shall be brought before the
+Court of Rotterdam, located in Rotterdam, the Netherlands.
+As agreed and signed in duplicate:
+VONQ B.V.
+Name: 
+Title: 
+Date:
+Signature:
+Name: 
+Title:
+Date:
+Signature:
