@@ -47,7 +47,7 @@
 * link:http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053[]
 * link:https://www.heise.de/newsticker/meldung/DSGVO-und-KI-Unvertraeglichkeiten-beim-Datenschutz-4049785.html[]
 * link:https://www.bitkom.org/Bitkom/Publikationen/Bitkom-views-on-Article-29-Working-Party-draft-guidelines-on-automated-individual-decision-making-including-profiling.html[]
- 
+
 [[ART30]]
 === Register of Processes - Art. 30 GDPR ===
  

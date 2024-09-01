@@ -1,0 +1,19 @@
+= Data Protection - GDPR - Internal Resources
+
+:toc:
+:toclevels: 4
+
+<<<
+ 
+== Products ==
+=== HAPI ===
+
+HAPI Partnerschip Agreement
+* link:https://docs.google.com/document/d/1VDtOANjV5H7EC0VaLQkYlhQSWjW9QvXM[]
+
+HAPI DPA check:
+* link:https://docs.google.com/spreadsheets/d/1qsKBpg0_QyxD02VAfk0R_rj7HHFsNTHWdxrXt54RK3o[]
+
+Client communication:
+* link:https://docs.google.com/document/d/1W-3UbrfYV2y9ezCpvlCKO8gVeQrMr9lTUwrfZAa2CTI[]
+* link:https://docs.google.com/document/d/1pBERYrakzrIbzM_tcQSY-nD6_8xckDcdY5Nn-YT8fE0[]
