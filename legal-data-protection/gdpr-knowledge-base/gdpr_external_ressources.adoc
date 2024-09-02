@@ -58,7 +58,8 @@
  
 [[ART35]]
 === Data Protection Impact Assessment (DPIA) - Art. 35 GDPR ===
- 
+
+* link:https://www.cnil.fr/sites/cnil/files/2024-01/draft_practical_guide_transfer_impact_assessment.pdf
 * link:https://www.bitkom.org/NP-Themen/NP-Vertrauen-Sicherheit/Datenschutz/FirstSpirit-1496129138918170529-LF-Risk-Assessment-online.pdf[]
 * link:https://www.lda.bayern.de/media/dsk_kpnr_5_dsfa.pdf[]
 * link:https://www.datenschutzzentrum.de/uploads/datenschutzfolgenabschaetzung/20171106-Planspiel-Datenschutz-Folgenabschaetzung.pdf[]
