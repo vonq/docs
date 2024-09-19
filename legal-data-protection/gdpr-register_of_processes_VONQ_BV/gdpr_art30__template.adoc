@@ -1,0 +1,106 @@
+* Date of last change: 18.09.2024
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+.Processing Activity: TODO Product
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 subs. 2 lit. a GDPR
+|Description
+|Collection and processing of personal data via TODO Product
+|Date of introduction: 
+|[DD/MM/YYYY]
+|Date of last change:
+|[DD/MM/YYYY]
+
+|Responsible department:
+|EXAMPLE: Engineering
+|Contact person
+|TODO
+|Phone number
+|TODO
+|Email address
+|EXAMPLE: engineering@vonq.com
+|===
+
+
+.Purpose of the processing activity
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 subs. 2 lit. b GDPR
+
+|Purposes of processing
+|EXAMPLE: Publication of job postings as fulfillment of contractual obligations.
+|===
+
+
+.Data Subjects
+|===
+| | 
+
+|Information according to::
+|art. 30 sec. 1 subs. 2 lit. c GDPR
+
+|Data Subjects
+|EXAMPLE: Recruiting personnel for VONQ clients
+|===
+
+.Data Types
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 subs. 2 lit. c GDPR
+
+|Data Types
+|EXAMPLE: name, first name, phone number, address
+|===
+
+.Categories of Recipients
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 subs. 2 lit. d GDPR
+
+|Categories of recipients to whom the personal data has been or will be disclosed.
+|EXAMPLE: Internally, the engineering, implementation and support departments have access rights; External persons (candidates) interested in the published postings can access the personal data via the job boards through which the personal data is published.
+|===
+
+.Transmission of the personal data
+|===
+| | 
+
+|Information according to:
+|art. 30 sec. 1 subs. 2 lit. e GDPR
+
+|Transfers of personal data to a third country or to an international organization. The data transfer takes place as follows:
+|EXAMPLE: A transfer to a third country or an international organization within the meaning of Art. 30 sec. 1 subs. 2 lit. e, 44 GDPR takes place insofar as the data is either transmitted to Amazon Web Services, Inc. or processed on behalf of them.
+
+|Data transmission does not take place and is not planned.
+|EXAMPLE: A data transmission within the meaning of art. 30 sec. 1 subs. 2 lit e GDPR takes place, either in the form of a transmission to Amazon Web Services, Inc. or as part of order data processing by Amazon Web Services, Inc.
+
+|Specific data recipients
+|EXAMPLE: Amazon Web Services EMEA SARL - 38 Avenue John F. Kennedy, L-1855, Luxembourg
+
+|Data Transmission according to art. 49 sec. 1 subs. 2 GDPR.
+|EXAMPLE: N/A
+
+|Retention period in the sense of art. 30 sec. 1 subs. 2 lit. f GDPR
+|EXAMPLE (Job Post): Descriptions of deactivated vacancies: 12 months, metadata of deactivated vacancies: 24 months. Once job postings (vacancies) are deactivated or become inactive, mentioned retention periods apply. Log files of job board interactions (meta data): 12 months, payload logs from transactions to job boards: 30 days. Apart from that retention periods are defined by the statue of limitation in the Netherlands.
+|===
+
+include::gdpr_Art30_toms.adoc[]
+
+ ………………………………………    …………… 	……………………………… 
+ Responsible        Date    Signature

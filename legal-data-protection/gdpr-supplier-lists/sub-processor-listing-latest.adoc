@@ -1,3 +1,11 @@
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
 [%header,format=csv]
 |===
 include::sub-processor-listing-v07.25-16.12.2023.csv[]
