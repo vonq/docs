@@ -96,6 +96,7 @@ a|SELECT:
 * No
 
 If “Yes”, conduct a separate TIA dedicated to each onward transfer.
+
 |Categories of Data Transferred
 |TODO
 |Special Categories of Data Transferred (“Sensitive Data”)
@@ -120,7 +121,8 @@ a|SELECT:
 * Other
 * None of the above
 
-(If “Other”, please provide details)
+If “Other”, please provide details.
+
 |Categories of Data Subjects
 |TODO
 |Vulnerable Data Subjects (e.g.: children, dependent persons)
@@ -129,7 +131,7 @@ a|SELECT:
 * Yes
 * No
 
-(If “Yes”, specify)
+If “Yes”, specify.
 |===
 
 [NOTE]
@@ -153,18 +155,20 @@ As indicated, conducting a TIA is required only when one of the tools of Article
 2+s| Adequacy Decision 
 |Is the country of destination the subject of an adequacy decision by the EU Commission currently in force?
 a|SELECT:
+
 * Yes
 * No
 
-(If “Yes”, you must verify the scope of this decision, as described below. If “No”, the transfer cannot be based on an adequacy decision and another instrument must be used.)
+If “Yes”, you must verify the scope of this decision, as described below. If “No”, the transfer cannot be based on an adequacy decision and another instrument must be used.
 
 |Does the adequacy decision cover the third country as a whole or only to a limited extent?
-a|
+a|SELECT
+
 * The whole country is covered
 * The decision covers a defined sector or list of entities to which the Importer or the transfer belong
 * The decision covers a defined sector or list of entities to which the Importer or the transfer do not belong
 
-(In the first two cases, the Importer is covered by the adequacy decision for transfers to the third country. You can therefore rely on this adequacy decision for your transfer and it is not necessary to carry out a TIA. In the third case, if the Importer is not covered by the scope of the adequacy decision, the transfer cannot be based on this adequacy decision and it is necessary to use another instrument.)
+In the first two cases, the Importer is covered by the adequacy decision for transfers to the third country. You can therefore rely on this adequacy decision for your transfer and it is not necessary to carry out a TIA. In the third case, if the Importer is not covered by the scope of the adequacy decision, the transfer cannot be based on this adequacy decision and it is necessary to use another instrument.
 
 2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
 |Does any of the derogations of Article 49 apply?
@@ -202,8 +206,10 @@ s|Evidence and documentation of the transfer instrument put in place
 |
 s|Is it necessary to carry out a TIA?
 a|SELECT
+
 * Yes
 * No
+
 |===
 
 [NOTE]
