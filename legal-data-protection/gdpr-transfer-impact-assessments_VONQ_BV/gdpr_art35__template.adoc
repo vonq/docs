@@ -28,6 +28,7 @@ processing activities or the contract governing the transfer. You can also conta
 |TODO
 |Exporter Qualification in the Context of the Data Transfer
 a|SELECT:
+
 * Controller
 * Joint Controller
 * Processor
@@ -41,6 +42,7 @@ If "Processor" or "Joint Controller", provide the name of the Controller.
 |TODO
 |Importer Qualification in the Context od the Data Transfer:
 a|SELECT:
+
 * Controller
 * Joint Controller
 * Processor
@@ -48,6 +50,7 @@ a|SELECT:
 If "Processor" or "Joint Controller", provide the name of the Controller.
 |Nature of the Data Importer’s Activities
 a|SELECT:
+
 * Commercial
 * Public sector
 * Non-profit
@@ -63,9 +66,11 @@ If "Other", specify.
 |TODO
 |Transfer Type (How is the data made available to the importer?)
 a|SELECT:
+
 * Remote access without the possibility to download/ locally store the data - Personal data is hosted by the Exporter within the EEA. The Importer cannot download copies of the personal data, but the Importer can access the personal data remotely from a country outside the EEA not covered by an adequacy decision
 * Remote access with the possibility to locally download/store the data - Personal data is hosted by the Exporter within the EEA, the Importer can access the personal data remotely from a country not covered by an adequacy decision, and if necessary, download and store copies of the personal data within the country outside of the EEA not covered by an adequacy decision.
 * Transmission and local storage/hosting - The Importer hosts or stores the personal data in a country outside the EEA not covered by an adequacy decision.
+
 |Transfer Method (e.g.: email, secure file transfer protocol, remote access)
 |TODO
 |Transferred Data Format
@@ -79,9 +84,11 @@ a|SELECT:
 If “Other”, please provide details.
 |Transfer Frequency
 a|SELECT:
+
 * One-off transfer
 * Occasional transfers
 * Regular transfers
+
 |Possibility of Onward Transfers by the Importer
 a|SELECT:
 
@@ -93,6 +100,7 @@ If “Yes”, conduct a separate TIA dedicated to each onward transfer.
 |TODO
 |Special Categories of Data Transferred (“Sensitive Data”)
 a|SELECT:
+
 * Personal data revealing racial or ethnic origin
 * Personal data revealing political opinions
 * Personal data revealing religious or philosophical beliefs
@@ -101,8 +109,10 @@ a|SELECT:
 * Health data
 * Data concerning a natural person’s sex life or sexual orientation
 * None of the above
+
 |Other Types of Sensitive or Highly Personal Data Transferred
 a|SELECT:
+
 * Personal data relating to criminal convictions and offences
 * National identification number
 * Geolocation data
@@ -115,6 +125,7 @@ a|SELECT:
 |TODO
 |Vulnerable Data Subjects (e.g.: children, dependent persons)
 a|SELECT:
+
 * Yes
 * No
 
@@ -126,9 +137,10 @@ a|SELECT:
 The following table is intended to help document the transfer tool used for the transfer in question, in order to confirm whether or not a TIA is required.
 
 A transfer may be based on:
-* an adequacy decision by the European Commission;
-* one of the transfer tools listed in Article 46 of the GDPR; or
-* a derogation in accordance with Article 49 of the GDPR. With regards to the latter, it should be recalled, as underlined in the EDPB recommendations on supplementary measures, that "only in some cases you may be able to rely on one of the derogations provided for in Article 49 GDPR if you meet the conditions. Derogations cannot become “the rule” in practice, but need to be restricted to specific
+
+- an adequacy decision by the European Commission;
+- one of the transfer tools listed in Article 46 of the GDPR; or
+- a derogation in accordance with Article 49 of the GDPR. With regards to the latter, it should be recalled, as underlined in the EDPB recommendations on supplementary measures, that "only in some cases you may be able to rely on one of the derogations provided for in Article 49 GDPR if you meet the conditions. Derogations cannot become “the rule” in practice, but need to be restricted to specific
 situations".
 
 As indicated, conducting a TIA is required only when one of the tools of Article 46 is used.
@@ -138,7 +150,7 @@ As indicated, conducting a TIA is required only when one of the tools of Article
 [%autowidth]
 |===
 | |
-+2s| Adequacy Decision 
+2+s| Adequacy Decision 
 |Is the country of destination the subject of an adequacy decision by the EU Commission currently in force?
 a|SELECT:
 * Yes
@@ -154,7 +166,7 @@ a|
 
 (In the first two cases, the Importer is covered by the adequacy decision for transfers to the third country. You can therefore rely on this adequacy decision for your transfer and it is not necessary to carry out a TIA. In the third case, if the Importer is not covered by the scope of the adequacy decision, the transfer cannot be based on this adequacy decision and it is necessary to use another instrument.)
 
-+2s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
+2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
 |Does any of the derogations of Article 49 apply?
 a|SELECT:
 
@@ -173,7 +185,7 @@ subject.
 If “Yes”, there is no need for a TIA,
 If “No”, another instrument must be used.
 
-+2s| Article 46 GDPR Transfer Tools
+2+s| Article 46 GDPR Transfer Tools
 |Is one of the transfer tools of Article 46 GDPR used for the transfer?
 a|SELECT:
 
@@ -185,7 +197,7 @@ a|SELECT:
 
 If yes, a TIA is required.
 
-+2s| Conclusion
+2+s| Conclusion
 s|Evidence and documentation of the transfer instrument put in place
 |
 s|Is it necessary to carry out a TIA?
