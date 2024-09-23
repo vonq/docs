@@ -1,4 +1,4 @@
-* Date of last change: 18.09.2024
+* Date of last change: 23.09.2024
 
 Transfer Impact Assessment (TIA) - Template
 
@@ -18,10 +18,11 @@ In order to ensure an essentially equivalent level of protection for the data tr
 processing activities or the contract governing the transfer. You can also contact the data importer.
 ====
 
-.Table 1: Know Your Transfer
+.Table 1: Details of the transfer
 [%autowidth]
 |===
-| | 
+| |
+2+s| Exporter
 |Exporter Name
 |TODO
 |Contact Point and Contact Details
@@ -34,6 +35,7 @@ a|SELECT:
 * Processor
 
 If "Processor" or "Joint Controller", provide the name of the Controller.
+2+s| Importer
 |Importer Name:
 |TODO
 |Contact Point and Contact Details:
@@ -48,6 +50,7 @@ a|SELECT:
 * Processor
 
 If "Processor" or "Joint Controller", provide the name of the Controller.
+2+s| Details of the Transfer
 |Nature of the Data Importer’s Activities
 a|SELECT:
 
@@ -195,8 +198,8 @@ a|SELECT:
 
 * Standard Contractual Clauses (SCCs)
 * Binding Corporate Rules (BCRs)
-* Code of Conduct 18
-* Certification Mechanism 19
+* Code of Conduct
+* Certification Mechanism
 * Ad hoc Contractual Clauses
 
 If yes, a TIA is required.

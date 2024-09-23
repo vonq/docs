@@ -1,0 +1,93 @@
+* Date of last change: 23.09.2024
+
+Transfer Impact Assessment (TIA) - Zendesk Inc. - HAPI
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+.Table 1: Details of the transfer
+[%autowidth]
+|===
+| | 
+2+s| Exporter
+|Exporter Name
+|VONQ B.V.
+|Contact Point and Contact Details
+|mailto:dpo@vonq.com[dpo@vonq.com,role=email]
+|Exporter Qualification in the Context of the Data Transfer
+|Processor. Controllers are VONQ B.V. customers.
+2+s| Importer
+|Importer Name:
+|Zendesk Inc.
+|Contact Point and Contact Details:
+|Zendesk Inc., 989 Market St. San Francisco, CA 94103 USA
+|Importation Country:
+|United States of America (USA)
+|Importer Qualification in the Context od the Data Transfer:
+|Sub-processor. Controllers are VONQ B.V. customers.
+2+s| Details of the Transfer
+|Nature of the Data Importer’s Activities
+|Commercial
+|Transfer Start Date
+|26.08.2022
+|Intended Transfer End Date or Transfer Duration
+|continuous
+|Transfer Purpose(s) and Processing Activities Undertaken by the Importer Regarding the Transferred Data
+(e.g. IT support, marketing, provision of cloud software, data hosting)
+|Support ticketing system
+|Transfer Type (How is the data made available to the importer?)
+|Customers working with the HAPI API enter the data, including possibly personal data, into the Zendesk ticketing platform. Personal data is hosted by the Importer within the EEA. The Importer can download copies of the personal data and access the personal data remotely from a country outside the EEA covered by an adequacy decision.
+|Transfer Method (e.g.: email, secure file transfer protocol, remote access)
+|HTTPS
+|Transferred Data Format
+|Encrypted
+|Transfer Frequency
+|Occasional transfers when issuing a ticket.
+|Possibility of Onward Transfers by the Importer
+|TODO: Analysis link:https://support.zendesk.com/hc/en-us/articles/4408883061530-Sub-processor-Policy[https://support.zendesk.com/hc/en-us/articles/4408883061530-Sub-processor-Policy] required.
+|Categories of Data Transferred
+|Customers recruiters fist name, last name, business email, business phone number, buisiness address 
+|Special Categories of Data Transferred (“Sensitive Data”)
+|No
+|Other Types of Sensitive or Highly Personal Data Transferred
+|No
+|Categories of Data Subjects
+|Recruiters of VONQ B.V. customers working with the HAPI API and issuing support tickets.
+|Vulnerable Data Subjects (e.g.: children, dependent persons)
+|No
+|===
+
+.Table 2: Transfer Tool Used and Documentation
+[%autowidth]
+|===
+| |
+2+s| Adequacy Decision 
+|Is the country of destination the subject of an adequacy decision by the EU Commission currently in force?
+|Yes
+
+|Does the adequacy decision cover the third country as a whole or only to a limited extent?
+|The decision covers Importers that are commercial organisations participating in the EU-US Data Privacy Framework (DPF). The Importer is anctive participant in the DPF and therefore covered by the adequacy decision for transfers to the third country. VONQ B.V. can rely on this adequacy decision the transfer and it is not necessary to carry out a TIA.
+
+2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
+|Does any of the derogations of Article 49 apply?
+|Transfer necessary for the conclusion or performance of a contract concluded in the
+interest of the data subject between the controller and another natural or legal person.
+2+s| Article 46 GDPR Transfer Tools
+|Is one of the transfer tools of Article 46 GDPR used for the transfer?
+|No
+2+s| Conclusion
+s|Evidence and documentation of the transfer instrument put in place
+|Yes
+s|Is it necessary to carry out a TIA?
+|No
+|===
+
+[NOTE]
+====
+The transfer is based on an adequacy decision by the EU Commission, VONQ is not obliged to carry out a TIA.
+====
