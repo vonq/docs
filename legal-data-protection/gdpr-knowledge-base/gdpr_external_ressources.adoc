@@ -19,6 +19,7 @@
 * VONQ GmbH - link:https://www.ldi.nrw.de/[]
  
 == Official Documents ==
+
 === GDPR - Official Text ===
  
 * link:http://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32016R0679&qid=1501595970368&from=EN[]
@@ -62,6 +63,7 @@ English resources:
 
 * link:http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612053[]
 * link:https://www.bitkom.org/Bitkom/Publikationen/Bitkom-views-on-Article-29-Working-Party-draft-guidelines-on-automated-individual-decision-making-including-profiling.html[]
+* link:https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:C_202400913
 
 German resources:
 

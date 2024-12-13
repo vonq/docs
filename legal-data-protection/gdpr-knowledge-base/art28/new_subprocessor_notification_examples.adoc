@@ -1,0 +1,82 @@
+= Data Protection - GDPR - Internal Resources
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+== Notification examples ==
+
+=== VONQ ===
+
+Dear Partner,
+
+We are writing to inform you about a planned change in our subprocessors.
+
+To support the functionality of our HAPI Smart Fill feature, we intend to use Microsoft Azure as a new subprocessor. This decision is based on several benefits:
+
+Scalability and Flexibility: Azure provides the necessary infrastructure to expand processing power and storage space, ensuring that our services can scale with your needs.
+Enhanced Performance and Reliability: By utilizing Azure’s robust infrastructure, we can improve the overall speed, stability, and availability of our services, providing a more reliable user experience.
+Data Security and Compliance: Data processed through Microsoft Azure will be stored in EU data centers, ensuring compliance with EU data privacy regulations and maintaining high security standards.
+
+In line with our standard Data Processing Agreement (DPA), we are required to inform you of the addition of this new subprocessor at least 30 days in advance. If you have any objections to our use of Microsoft Azure as a subprocessor, please contact us at dpo@vonq.com. We will promptly address any concerns you may have.
+
+You can also view the list of current subprocessors here: Privacy Center – List of Subprocessors.
+
+Thank you for your attention to this matter. We are committed to maintaining the highest standards of data security and privacy.
+
+Feel free to contact me if you want to learn more about how you can implement HAPI Smartfill to automate the job distribution process.
+
+With kind regards,
+
+Joren de Koning
+VONQ Team
+
+=== Google (GCP) ===
+
+Hello Bill,
+
+We are writing to let you know about the following updates to the Third-Party Subprocessors we engage for Google Cloud:
+
+We are adding LXT AI Romania S.R.L for the Speech to Text Service.
+No action is required on your part.
+
+You can find information about the tasks our Subprocessors perform on our Google Cloud Platform Subprocessors list.
+
+Thanks for choosing Google Cloud.
+
+=== Osano ===
+
+Dear Osano Customer, 
+
+As part of Osano’s commitment to delivering you excellent service, we are adding replacing Chargebee  with Stripe as a subprocessor in our customer billing processes. Our complete list of subprocessors can be found here (insert link).
+ 
+Because Stripe may process your organization’s “Personal Data” (as defined under the General Data Protection Regulation (GDPR)) in connection with the services and products that Osano provides, this communication shall serve as notification that Stripe will be a replacement subprocessor. Please note that Stripe is already an existing sub-processor that we use to facilitate payments. 
+ 
+How Osano will be using Stripe
+Osano will be using Stripe to facilitate payment when customers are purchasing our offerings. 
+ 
+How Personal Data will be protected 
+All information from or about Osano customers is considered confidential and will be maintained in accordance with the terms of our agreements with Stripe. 
+
+Stripe has a number of certifications and maintains robust controls designed to protect data and keep it secure, as detailed here (insert link).
+
+Further, Stripe will only process any data that it receives from Osano in accordance with Osano’s instructions, will maintain appropriate technical, organizational and administrative controls, will support any privacy rights requests, and Stripe will notify Osano without undue delay of any security incident. 
+ 
+Next Steps 
+Pursuant to our agreement with you, and in accordance with relevant data protection regulations, you have the right to object to the use of Stripe as a replacement subprocessor.   
+ 
+If you do, you must provide written notice to us within 30 days of this notice. If you choose to object or have any other questions, please reach out to us at legal@osano.com and we will be glad to assist you with your request.  
+ 
+If you don’t object to Stripe as a new subprocessor, no further action is required and  within 30 days of this notice, you will be deemed to have consented to Stripe’s use. 
+ 
+Thank you,
+The Osano Team
+

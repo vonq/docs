@@ -1,3 +1,17 @@
+= Data Protection - GDPR - Internal Resources
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+|===
+| | 
+|Classification:
+|restricted
+|===
+
 Source: https://medium.com/golden-data/what-are-joint-controllers-a9614d4a633d
 
 What are ‘joint controllers’ (a.k.a. ‘co-controllers’)?
