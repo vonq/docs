@@ -79,28 +79,16 @@ German resources:
 * link:https://www.lda.bayern.de/media/dsk_muster_vov_verantwortlicher.pdf[]
 * link:https://www.bitkom.org/noindex/Publikationen/2018/Leitfaeden/180530-Verzeichnis-von-Verarbeitungstaetigkeiten-nach-Art-30-EU-Datenschutz-Grundverordnung-DS-GVO/180529-LF-Verarbeitungsverzeichnis-online.pdf[]
  
-[[ART35]]
-=== Data Protection Impact Assessment (DPIA) - Art. 35 GDPR ===
+[[SCC14]]
+=== Transfer Impact Assessment - 14 SCC ===
 
 English resources:
 
 * link:https://www.cnil.fr/sites/cnil/files/2024-01/draft_practical_guide_transfer_impact_assessment.pdf
-* link:https://ec.europa.eu/energy/sites/ener/files/documents/2014_dpia_smart_grids_forces.pdf[]
-* link:https://blog.lukaszolejnik.com/guidelines-to-data-protection-impact-assessment/[]
-* link:https://blog.lukaszolejnik.com/analysis-of-working-party-29-dpia-guidelines/[]
 
 German resources:
 
-* link:https://www.bitkom.org/NP-Themen/NP-Vertrauen-Sicherheit/Datenschutz/FirstSpirit-1496129138918170529-LF-Risk-Assessment-online.pdf[]
-* link:https://www.lda.bayern.de/media/dsk_kpnr_5_dsfa.pdf[]
-* link:https://www.datenschutzzentrum.de/uploads/datenschutzfolgenabschaetzung/20171106-Planspiel-Datenschutz-Folgenabschaetzung.pdf[]
-* link:https://www.privacyofficers.at/Privacyofficers_DSFA-Umsetzung_DSGVO_v1.0.pdf[]
-* link:https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/05/Liste-von-Verarbeitungsvorg%C3%A4ngen-nach-Art.-35-Abs.-4-DS-GVO-LfDI-BW.pdf[]
-* link:https://www.datenschutz-berlin.de/pdf/datenschutzfolgeabschaetzung/dsfolge-nicht-oeffentlich.pdf[]
-* link:https://www.lda.brandenburg.de/media_fast/4055/DSFA_Muss-Liste_allgemein_180525.pdf[]
-* link:https://datenschutz-hamburg.de/assets/pdf/DSFA%20Muss-Liste%20f%C3%BCr%20den%20nicht-%C3%B6ffentlicher%20Bereich-HmbBfDI%20Version%201.0%20(Entwurf).pdf[]
-* link:https://datenschutz.saarland.de/fileadmin/datenschutz/ds-gvo/ds-folgenabschaetzung/Muss-Liste_SL.pdf[]
-* link:https://www.datenschutzzentrum.de/uploads/datenschutzfolgenabschaetzung/20180525_LfD-SH_DSFA_Muss-Liste_V1.0.pdf[]
+* link:https://www.datenschutzexperte.de/blog/tia---das-transfer-impact-assessment
 
 == Examples ==
 === Internal Register of processing operations ===
