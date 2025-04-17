@@ -1,0 +1,24 @@
+= Data Protection - EU AI Act - External Resources
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+== AI Act General ==
+ 
+* link:https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence[]
+
+* link:https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng[]
+
+=== Third Party Resources ===
+
+* link:https://drive.google.com/file/d/14Ymhr4CzuIUc2kZvM4FMz0HWw1-l_vTp/view?usp=sharing[]
