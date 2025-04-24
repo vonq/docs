@@ -15,5 +15,5 @@
 
 [%header,format=adoc]
 |===
-include::privacy-pilicy-20220730.adoc[]
+include::privacy-policy-20220730.adoc[]
 |===
