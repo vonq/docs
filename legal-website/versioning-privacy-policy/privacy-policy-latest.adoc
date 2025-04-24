@@ -1,0 +1,19 @@
+= Versioning Privacy Policy - Legal Website
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+[%header,format=adoc]
+|===
+include::privacy-pilicy-20220730.adoc[]
+|===
