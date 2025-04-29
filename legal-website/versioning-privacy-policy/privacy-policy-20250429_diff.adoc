@@ -1,0 +1,21 @@
+Processing of Personal Data in the context of VONQ KoPilot 
+
+Categories of Personal Data: 
+VONQ may process the following categories of Personal Data of potential candidates:
+Contact Information such as salutation, name, email address, and phone number.
+Professional information such as Resume/CV content, including education, experience, skills, and certifications.
+AI Chat and Interview information such as answers to AI Bot questions and Interview transcript.
+Match Score Data: compatibility score generated through automated analysis comparing your profile with the job description.
+
+How we collect Information	
+VONQ collects the above mentioned categories of personal data directly from you as a potential candidate on our proprietary KoPilot Candidate Journey platform when you submit your Resume/CV, when you chat with our AI Agent and when you engage in conversation with our AI Agent in the initial interview.
+
+Purpose of Processing
+VONQ collects this personal data for the purpose of facilitating recruitment activities for our clients.
+
+Legal Basis for Processing
+VONQ only collects the above mentioned personal data with your explicit consent.
+
+5. Transfer of personal data
+(New Bullet point)
+- In the context of VONQ Kopilot: to the client that hired VONQ to gather applicants for the specified role.
