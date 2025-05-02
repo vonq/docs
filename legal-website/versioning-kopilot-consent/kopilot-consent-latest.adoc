@@ -1,0 +1,21 @@
+= Versioning KoPilot consent - Legal Website
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|===
+
+[%header,format=adoc]
+|===
+Current KoPilot consent:
+
+include::kopilot-consent-20250423.adoc[]
+|===

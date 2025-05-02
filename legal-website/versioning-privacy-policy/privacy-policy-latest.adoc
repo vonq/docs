@@ -15,5 +15,13 @@
 
 [%header,format=adoc]
 |===
+Current Privacy Policy:
+
 include::privacy-policy-20220730.adoc[]
+|===
+
+|===
+Upcoming Privacy Policy:
+
+include::privacy-policy-20250430.adoc[]
 |===

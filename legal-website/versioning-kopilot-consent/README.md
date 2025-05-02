@@ -1,0 +1,3 @@
+
+# GDPR KoPilot consent
+

@@ -15,5 +15,13 @@
 
 [%header,format=csv]
 |===
+Current Sub-Processor list:
+
 include::sub-processor-listing-v07.26-31.09.2024.csv[]
+|===
+
+|===
+Past Sub-Processor list(s):
+
+include::sub-processor-listing-v07.25-16.12.2023.csv[]
 |===
