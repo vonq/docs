@@ -1,12 +1,13 @@
-Company,Address,Place of Data Processing ,Products,Service Description
+Company,Address,Place of Data Processing,Products,Service Description
 Amazon Web Services EMEA SARL,"38 Avenue John F. Kennedy, L-1855, Luxembourg",AWS availability zone eu-west-1 (Frankfurt/Germany),"JM, HAPI including respective add-ons and modules, Marketplace add-on for JP",Infrastructure (IaaS) and hosting provider
-g-company B.V.,"Atoomweg 50, 3542AB Utrecht, The Netherlands",,"JP, JM, HAPI including respective add-ons and modules.",Administrative and technical support
+Filestack Inc.,"122 E. Houston Street, San Antonio, Texas 78205, USA","USA","AI Agents","Upload, convert & deliver potential candidate files onto VONQ's Single-Page Application page"
 Google Cloud EMEA Ltd.,"70 Sir John Rogerson’s Quay, Dublin 2, Ireland","GCP Regions eu-west1 (St. Ghislain/Belgium), eu-west3 (Frankfurt/Germany) und eu-west4 (Eemshaven/Netherlands),"JP, JM, HAPI including respective add-ons and modules.",Infrastructure (IaaS) and hosting provider
 Intercom Inc.,"55 2nd Street, 4th Fl., San Francisco, CA 94105, USA",USA,JM including respective add-ons,Support chat provider
-Microsoft Ireland Operations Ltd.,"One Microsoft Place, South County Business Park, Leopardstown, Dublin 18 D18 P521",HAPI including respective add-ons and modules,Smart Fill functionality,Kopilot - Candidate Journey,Lead Nurturing"
+Mailgun Technologies, Inc.,"112 E Pecan St, #1135, San Antonio, TX, 78205, USA","USA","AI Agents","Management of communications resulting from VONQ's Single-Page Application page"
+Microsoft Ireland Operations Ltd.,"One Microsoft Place, South County Business Park, Leopardstown, Dublin 18 D18 P521",HAPI including respective add-ons and modules,AI Agents"
 OptimaData B.V.,"Ijsselmeerweg 1 1411 AA Naarden, The Netherlands",Netherlands,"JP, JM, HAPI including respective add-ons and modules.",Administrative and technical support
-Prolocation B.V.,"Populierlaan 3B, 2282 KX Rijswijk, The Netherlands",Netherlands,"JM, HAPI including respective add-ons and modules.",Hosting provider
 SFDC Ireland Ltd. (Salesforce),"Third and Fourth Floor, 1 Central Park, Block G, Leopardstown, D 18, Dublin, Ireland",Ireland,"JP, JM, HAPI including respective add-ons and modules.","Facilitating the performance of contracts, managing customer relationships"
 Snowplow Analytics Ltd.,"17 Bevis Marks, Floor 6, London, EC3A 7LN, United Kingdom",AWS availability zone eu-west-1 (Frankfurt/Germany) and UK,JM,Anonymization of candidate IP addresses
 "Stripe Payments Europe, Ltd.","1 Grand Canal Street Lower, Grand Canal Dock, Dublin Ireland",Ireland,HAPI Payment Module,Payment processing
+Xebia Workplace B.V.,"Laapersveld 27, 1213 VB Hilversum, The Netherlands","JP, JM, HAPI including respective add-ons and modules.",Administrative and technical support
 Zendesk Inc.,"989 Market St. San Francisco, CA 94103 USA",USA,"JP, HAPI including respective add-ons and modules.",Support ticketing system
