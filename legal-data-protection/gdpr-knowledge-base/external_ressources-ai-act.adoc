@@ -11,6 +11,8 @@
 | | 
 |Classification:
 |restricted
+|Author:
+|DPO
 |===
 
 == AI Act General ==
@@ -21,4 +23,7 @@
 
 === Third Party Resources ===
 
+Workshop: Vanta - Demystifying the EU AI Act:
+
 * link:https://drive.google.com/file/d/14Ymhr4CzuIUc2kZvM4FMz0HWw1-l_vTp/view?usp=sharing[]
+

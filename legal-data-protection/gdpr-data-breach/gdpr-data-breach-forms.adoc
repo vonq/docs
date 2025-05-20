@@ -11,9 +11,11 @@
 | | 
 |Classification:
 |restricted
+|Author:
+|DPO
 |===
 
-== General VONQ Data Breaach Form ==
+== General VONQ Data Breach Form ==
 
 TODO
 
@@ -21,4 +23,4 @@ TODO
 
 === Deloitte ===
 
-* link:https://www.deloitte.com/nl/nl/legal/melding-beveiligingslek-datalek.html[]
+Data Breach form of Deloitte - link:https://www.deloitte.com/nl/nl/legal/melding-beveiligingslek-datalek.html[] - deviates from standard and is defined and required by this DPA: link:https://docs.google.com/document/d/1s2Ez_0bR4Mx80x076j66SwjdlgZLw-Lq[]

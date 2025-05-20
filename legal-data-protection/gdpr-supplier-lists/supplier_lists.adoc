@@ -1,0 +1,32 @@
+= Data Protection - GDPR - Suppliers
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+|===
+| | 
+|Classification:
+|restricted
+|Author:
+|DPO
+|===
+
+== General ==
+
+=== VONQ Suppliers ===
+
+Supplier lists: +
+* link:https://docs.google.com/spreadsheets/d/1ZBVmg8TjFYU0p-U3T4LRUgpBLfX0VIkJ[]
+
+List of VONQ suppliers: +
+* link:https://docs.google.com/spreadsheets/d/14TyBwW9gproRjvvgy73bjU3nNk4dy8CP[]
+
+VONQ external supplier ordering form: +
+* link:https://docs.google.com/document/d/1KpSOcRfTDpvI6yXcJtxukBiv_FBWFc1f[]
+
+=== List of Software used by VONQ ===
+
+* link:https://qandidate.atlassian.net/wiki/spaces/VONQ/pages/26640388/Software+Parade[]

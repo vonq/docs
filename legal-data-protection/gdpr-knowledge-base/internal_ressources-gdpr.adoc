@@ -10,19 +10,20 @@
 | | 
 |Classification:
 |restricted
+|Author:
+|DPO
 |===
 
 == General ==
 
-=== List of VONQ suppliers ===
+=== VONQ Suppliers ===
 
-* link:https://docs.google.com/spreadsheets/d/14TyBwW9gproRjvvgy73bjU3nNk4dy8CP[]
-
-=== List of Software used by VONQ ===
-
-* link:https://qandidate.atlassian.net/wiki/spaces/VONQ/pages/26640388/Software+Parade[]
+For suplier lists please see the respective directory: link:https://github.com/vonq/docs/tree/main/legal-data-protection/gdpr-supplier-lists[]
 
 == Products ==
+
+Product Overwiew 2025: +
+* link:https://docs.google.com/presentation/d/1L88aG1DylocysP4765EBtVhHPXw6u5aOoiCzU9mmQZU[]
 
 === CPA+ ===
 
@@ -34,6 +35,14 @@
 
 ==== CPA+ agreement with publishers (WIP) ====
 * link:https://docs.google.com/document/d/1UEopO_zrJCHkmt_APwHzzgxFIPKaloRsuTYuOaG9DSQ[]
+
+=== AI Agents ===
+
+General Q&A: +
+* link:https://docs.google.com/document/d/1OnvwXtpLO9LALLc_ycoUM0PI7-XJRoF6GC_lqR_f0g0[]
+
+APG Questions on AI Agents: +
+* link:https://docs.google.com/document/d/1T-GsleJTVFKbxRmT5XtD3AnZV6XFyluBBuGHmJfIx4w[]
 
 === HAPI ===
 
@@ -55,23 +64,34 @@
 
 ==== Job Post questionnaires ====
 
-ANWB questionnaire folder:
+ANWB questionnaire folder: +
 * link:https://drive.google.com/drive/folders/12zXakslQnm0yDTlEBHayM7jiz-nFX1bc[]
 
-E.ON questionnaire:
+E.ON questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1EN5KEp2W-orTVisQsXTF60v7rhUIcxab[]
 
-WTW questionnaire:
+WTW questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1_JzhQXgX1hnx5H4s_5CJ3SPhXslefHVj[]
 
-EQUANS questionnaire folder:
+EQUANS questionnaire folder: +
 * link:https://drive.google.com/drive/folders/1uYEqT2IEPLbZOYZw9Stetzy7o5Kpf2wF[]
 
-Novartis questionnaire:
+Novartis questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1vrstiNI53Z6-LxXRLfbmzEQnt-gq1cuM[]
 
-Publicis Group questionnaire folder:
+Publicis Group questionnaire folder: +
 * link:https://drive.google.com/drive/folders/1ueLD2JjHpEEzN6ZANFs9QNTssB5Q6ZOo[]
+
+Generali questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/11JHKS6MPgvA_y2_nonUJTjEpiToxfTat[]
+
+Hilti questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[]
+
+==== Programmatic ====
+
+Ericsson questionnaire:
+* link:https://docs.google.com/spreadsheets/d/1U2KUC1PueLrpkuxYhErEtdKJaj95tb1A[]
 
 == Parties ==
 
