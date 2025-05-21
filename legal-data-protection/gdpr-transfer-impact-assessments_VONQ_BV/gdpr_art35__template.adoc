@@ -1,5 +1,3 @@
-* Date of last change: 23.09.2024
-
 Transfer Impact Assessment (TIA) - Template
 
 .Document information
@@ -8,6 +6,10 @@ Transfer Impact Assessment (TIA) - Template
 | | 
 |Classification:
 |restricted
+|Author:
+|DPO
+|Last changed:
+|23.09.2024
 |===
 
 [NOTE]
@@ -173,7 +175,7 @@ a|SELECT
 
 In the first two cases, the Importer is covered by the adequacy decision for transfers to the third country. You can therefore rely on this adequacy decision for your transfer and it is not necessary to carry out a TIA. In the third case, if the Importer is not covered by the scope of the adequacy decision, the transfer cannot be based on this adequacy decision and it is necessary to use another instrument.
 
-2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
+2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[GPDR])
 |Does any of the derogations of Article 49 apply?
 a|SELECT:
 

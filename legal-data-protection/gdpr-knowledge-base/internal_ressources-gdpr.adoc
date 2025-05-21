@@ -18,7 +18,8 @@
 
 === VONQ Suppliers ===
 
-For suplier lists please see the respective directory: link:https://github.com/vonq/docs/tree/main/legal-data-protection/gdpr-supplier-lists[]
+For suplier lists please see the respective directory: +
+* link:https://github.com/vonq/docs/tree/main/legal-data-protection/gdpr-supplier-lists[]
 
 == Products ==
 
@@ -88,15 +89,22 @@ Generali questionnaire: +
 Hilti questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[]
 
+Peek&Cloppenburg questionnaire (German): +
+* link:https://docs.google.com/spreadsheets/d/1QalUbdnZLJdkd30WXZf4rUtcNINaIgPw[]
+
+==== Job Marketing ====
+
+Univativ questionnaire (German): +
+* link:https://docs.google.com/spreadsheets/d/1KcAHuo7zyMtbNbj_8i9D2Tb_T6-fQWkL[]
+
 ==== Programmatic ====
 
-Ericsson questionnaire:
+Ericsson questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1U2KUC1PueLrpkuxYhErEtdKJaj95tb1A[]
 
 == Parties ==
 
 === Job Boards ===
 
-==== Current Job Board agreement ====
+Current Job Board agreement: +
 * link:https://www.vonq.com/vonq-parnership-tcs-docx[]
-

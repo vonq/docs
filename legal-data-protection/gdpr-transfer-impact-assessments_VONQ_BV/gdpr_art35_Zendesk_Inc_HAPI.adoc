@@ -1,5 +1,3 @@
-* Date of last change: 23.09.2024
-
 Transfer Impact Assessment (TIA) - Zendesk Inc. - HAPI
 
 .Document information
@@ -8,6 +6,10 @@ Transfer Impact Assessment (TIA) - Zendesk Inc. - HAPI
 | | 
 |Classification:
 |restricted
+|Author:
+|DPO
+|Last changed:
+|23.09.2024
 |===
 
 .Table 1: Details of the transfer
@@ -73,7 +75,7 @@ Transfer Impact Assessment (TIA) - Zendesk Inc. - HAPI
 |Does the adequacy decision cover the third country as a whole or only to a limited extent?
 |The decision covers Importers that are commercial organisations participating in the EU-US Data Privacy Framework (DPF). The Importer is anctive participant in the DPF and therefore covered by the adequacy decision for transfers to the third country. VONQ B.V. can rely on this adequacy decision the transfer and it is not necessary to carry out a TIA.
 
-2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[RGPD])
+2+s| Derogations (Article 49 link:https://www.edpb.europa.eu/sites/default/files/files/file1/edpb_guidelines_2_2018_derogations_en.pdf[GPDR])
 |Does any of the derogations of Article 49 apply?
 |Transfer necessary for the conclusion or performance of a contract concluded in the
 interest of the data subject between the controller and another natural or legal person.
