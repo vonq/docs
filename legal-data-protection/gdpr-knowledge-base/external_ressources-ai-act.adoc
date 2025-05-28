@@ -13,6 +13,8 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|20.05.2025
 |===
 
 == AI Act General ==

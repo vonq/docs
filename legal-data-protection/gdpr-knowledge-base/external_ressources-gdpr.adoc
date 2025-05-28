@@ -13,6 +13,8 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|28.05.2025
 |===
 
 == Regulatory Authority ==
@@ -41,7 +43,7 @@
 
 English resources:
 
-* https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_en
+* https://www.edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-072020-concepts-controller-and-processor-gdpr_en[]
 * link:http://ec.europa.eu/justice/article-29/documentation/opinion-recommendation/files/2010/wp169_en.pdf[]
 
 German resources:
@@ -86,11 +88,11 @@ German resources:
 
 English resources:
 
-* link:https://www.cnil.fr/sites/cnil/files/2024-01/draft_practical_guide_transfer_impact_assessment.pdf
+* link:https://www.cnil.fr/sites/cnil/files/2024-01/draft_practical_guide_transfer_impact_assessment.pdf[]
 
 German resources:
 
-* link:https://www.datenschutzexperte.de/blog/tia---das-transfer-impact-assessment
+* link:https://www.datenschutzexperte.de/blog/tia---das-transfer-impact-assessment[]
 
 == Examples ==
 === Internal Register of processing operations ===

@@ -12,9 +12,19 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|28.05.2025
 |===
 
 == General ==
+
+=== VONQ IT Security ===
+
+VONQ IT Security and Compliance folder: +
+* link:https://drive.google.com/drive/folders/1RPqdWMCsRZN82c1NMLS3pWqNw4rEOeuc[]
+
+ISO 27001 policy overview: +
+* link:https://docs.google.com/spreadsheets/d/1KfChLHP89isdaHvP_PmX9Ob8JZqfWMPxzVQgm_6fJ0Y[]
 
 === VONQ Suppliers ===
 
@@ -93,6 +103,9 @@ Peek&Cloppenburg questionnaire (German): +
 * link:https://docs.google.com/spreadsheets/d/1QalUbdnZLJdkd30WXZf4rUtcNINaIgPw[]
 
 ==== Job Marketing ====
+
+WOLT questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/1xhqMkZsGNQS9NUB9EPFfT8hUS44tQrZvyUGUXjG_egI[]
 
 Univativ questionnaire (German): +
 * link:https://docs.google.com/spreadsheets/d/1KcAHuo7zyMtbNbj_8i9D2Tb_T6-fQWkL[]
