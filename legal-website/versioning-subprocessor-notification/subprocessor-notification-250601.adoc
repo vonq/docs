@@ -1,0 +1,39 @@
+= Data Protection - GDPR - Sub-Processor Notification
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+|===
+| | 
+|Classification:
+|public
+|Author:
+|Angelique 
+|Last changed:
+|30.05.2025
+|===
+
+=== VONQ Sub-Processor Notification - May 2025 ===
+
+Dear Customer,
+
+We would like to inform you of changes to our sub-processors as well as to our Privacy Policy.
+
+Updates to sub-processors:
+Prolocation B.V, a hosting provider, is no longer a sub-processor.
+g-company B.V., who provides administrative and technical support has changed its name to ‘Xebia Workplace B.V.’  following a corporate rebranding. This change does not affect the scope, purpose, or means of data processing, and the legal entity remains the same.
+New sub-processors applicable to CPA+ and Shortlist:
+
+Filestack offers APIs to upload, convert & deliver files. VONQ uses Filestack to allow potential candidates to upload CVs and other relevant documents to our Single-Page Application page. Their Privacy policy can be found link:https://www.filestack.com/privacy[here].
+Mailgun provides email services and allows VONQ to keep candidates informed of their application status. Their Privacy policy can be found link:https://www.mailgun.com/legal/privacy-policy[here].
+
+No action is required on your part since Filestack and Mailgun do not process your personal data, but that of potential candidates.
+You can also view the list of current sub-processors here: link:https://www.vonq.com/privacy-portal/list-of-subprocessors[Privacy Portal – List of Subprocessors].
+
+Furthermore, we have updated our Privacy Notice so potential candidates are informed of how we collect and process their personal data. You can view the current Privacy Policy here: link:https://www.vonq.com/privacy-policy[Privacy Policy].
+
+Please don’t hesitate to contact us at dpo@vonq.com. We will promptly address any questions you may have.
+Thank you for your attention to this matter. We are committed to maintaining high standards of data security and privacy.

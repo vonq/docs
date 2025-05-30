@@ -1,4 +1,4 @@
-= Data Protection - GDPR - Internal Resources
+= Data Protection - GDPR - Internal Resources - Sub-Processor Notification Examples
 
 :toc:
 :toclevels: 4
@@ -9,39 +9,18 @@
 |===
 | | 
 |Classification:
-|restricted
+|public
+|Author:
+|DPO
+|Last changed:
+|30.05.2025
 |===
 
 == Notification examples ==
 
-=== VONQ ===
-
-Dear Partner,
-
-We are writing to inform you about a planned change in our subprocessors.
-
-To support the functionality of our HAPI Smart Fill feature, we intend to use Microsoft Azure as a new subprocessor. This decision is based on several benefits:
-
-Scalability and Flexibility: Azure provides the necessary infrastructure to expand processing power and storage space, ensuring that our services can scale with your needs.
-Enhanced Performance and Reliability: By utilizing Azure’s robust infrastructure, we can improve the overall speed, stability, and availability of our services, providing a more reliable user experience.
-Data Security and Compliance: Data processed through Microsoft Azure will be stored in EU data centers, ensuring compliance with EU data privacy regulations and maintaining high security standards.
-
-In line with our standard Data Processing Agreement (DPA), we are required to inform you of the addition of this new subprocessor at least 30 days in advance. If you have any objections to our use of Microsoft Azure as a subprocessor, please contact us at dpo@vonq.com. We will promptly address any concerns you may have.
-
-You can also view the list of current subprocessors here: Privacy Center – List of Subprocessors.
-
-Thank you for your attention to this matter. We are committed to maintaining the highest standards of data security and privacy.
-
-Feel free to contact me if you want to learn more about how you can implement HAPI Smartfill to automate the job distribution process.
-
-With kind regards,
-
-Joren de Koning
-VONQ Team
-
 === Google (GCP) ===
 
-Hello Bill,
+Hello GCP Customer,
 
 We are writing to let you know about the following updates to the Third-Party Subprocessors we engage for Google Cloud:
 

@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|28.05.2025
+|30.05.2025
 |===
 
 == General ==
@@ -46,6 +46,9 @@ Product Overwiew 2025: +
 
 ==== CPA+ agreement with publishers (WIP) ====
 * link:https://docs.google.com/document/d/1UEopO_zrJCHkmt_APwHzzgxFIPKaloRsuTYuOaG9DSQ[]
+
+=== CPA+ HAPI DPA Draft ===
+* link:https://docs.google.com/document/d/1VTYzAgMS-z6EGYhbZySV38cZcrJvnNgH[]
 
 === AI Agents ===
 
