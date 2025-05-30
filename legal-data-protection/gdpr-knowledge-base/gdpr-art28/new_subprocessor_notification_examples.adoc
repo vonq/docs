@@ -1,4 +1,4 @@
-= Data Protection - GDPR - Internal Resources - Sub-Processor Notification Examples
+= Data Protection - GDPR - Internal Resources - Sub-Processor notification examples
 
 :toc:
 :toclevels: 4
@@ -52,7 +52,7 @@ Further, Stripe will only process any data that it receives from Osano in accord
 Next Steps 
 Pursuant to our agreement with you, and in accordance with relevant data protection regulations, you have the right to object to the use of Stripe as a replacement subprocessor.   
  
-If you do, you must provide written notice to us within 30 days of this notice. If you choose to object or have any other questions, please reach out to us at legal@osano.com and we will be glad to assist you with your request.  
+If you do, you must provide written notice to us within 30 days of this notice. If you choose to object or have any other questions, please reach out to us at mailto:legal@osano.com[legal@osano.com] and we will be glad to assist you with your request.  
  
 If you don’t object to Stripe as a new subprocessor, no further action is required and  within 30 days of this notice, you will be deemed to have consented to Stripe’s use. 
  

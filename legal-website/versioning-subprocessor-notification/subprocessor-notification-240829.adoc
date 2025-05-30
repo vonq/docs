@@ -29,7 +29,7 @@ Scalability and Flexibility: Azure provides the necessary infrastructure to expa
 Enhanced Performance and Reliability: By utilizing Azure’s robust infrastructure, we can improve the overall speed, stability, and availability of our services, providing a more reliable user experience.
 Data Security and Compliance: Data processed through Microsoft Azure will be stored in EU data centers, ensuring compliance with EU data privacy regulations and maintaining high security standards.
 
-In line with our standard Data Processing Agreement (DPA), we are required to inform you of the addition of this new subprocessor at least 30 days in advance. If you have any objections to our use of Microsoft Azure as a subprocessor, please contact us at dpo@vonq.com. We will promptly address any concerns you may have.
+In line with our standard Data Processing Agreement (DPA), we are required to inform you of the addition of this new subprocessor at least 30 days in advance. If you have any objections to our use of Microsoft Azure as a subprocessor, please contact us at mailto:dpo@vonq.com[dpo@vonq.com]. We will promptly address any concerns you may have.
 
 You can also view the list of current subprocessors here: link:https://www.vonq.com/privacy-portal/list-of-subprocessors[Privacy Center – List of Subprocessors].
 

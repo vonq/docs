@@ -11,7 +11,7 @@
 |Classification:
 |public
 |Author:
-|Angelique 
+|Angelique Joubert
 |Last changed:
 |30.05.2025
 |===
@@ -35,5 +35,5 @@ You can also view the list of current sub-processors here: link:https://www.vonq
 
 Furthermore, we have updated our Privacy Notice so potential candidates are informed of how we collect and process their personal data. You can view the current Privacy Policy here: link:https://www.vonq.com/privacy-policy[Privacy Policy].
 
-Please don’t hesitate to contact us at dpo@vonq.com. We will promptly address any questions you may have.
+Please don’t hesitate to contact us at mailto:dpo@vonq.com[dpo@vonq.com]. We will promptly address any questions you may have.
 Thank you for your attention to this matter. We are committed to maintaining high standards of data security and privacy.
