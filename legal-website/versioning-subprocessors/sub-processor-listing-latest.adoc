@@ -13,17 +13,27 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|31.05.2025
 |===
 
 [%header,format=csv]
 |===
-Current Sub-Processor list:
+Current Sub-Processor list: +
+
+include::sub-processor-listing-v07.27-31.05.2025.csv[]
+|===
+
+|===
+Listing as of 31.09.2024: +
 
 include::sub-processor-listing-v07.26-31.09.2024.csv[]
+
 |===
 
 |===
-Past Sub-Processor list(s):
+
+Listing as of 16.12.2023: +
 
 include::sub-processor-listing-v07.25-16.12.2023.csv[]
 |===
