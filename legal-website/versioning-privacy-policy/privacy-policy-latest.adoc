@@ -13,17 +13,19 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|31.05.2025
 |===
 
 [%header,format=adoc]
 |===
 Current Privacy Policy:
 
-include::privacy-policy-20220730.adoc[]
+include::privacy-policy-20250531.adoc[]
 |===
 
 |===
 Upcoming Privacy Policy:
 
-include::privacy-policy-20250430.adoc[]
+include::privacy-policy-20220730.adoc[]
 |===

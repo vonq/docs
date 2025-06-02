@@ -27,16 +27,21 @@ troubleshooting of the Online Services;
 * Contacting you with information about our products and services, providing further marketing information or, as outlined in section 4, in the context of customer satisfaction surveys; and
 * Prevention of illicit activities, fraud, attacks towards our infrastructure and IT systems, enforcing our Online Service’s terms and to preserve legal claims.
 
-2.3. Online Services provided by your organization VONQs Online Services may be provided to you by another company as part of an employment, contract, or similar relationship, for example by our enterprise customers. In this case, if our Online Services are provided by another company, there is a data processing agreement defining the relationship between VONQ and your company. According to this agreement, your company is the controller of your Personal Data. Please refer to your company regarding the processing of your Personal Data.
+2.3. Online Services provided by your organization +
+VONQs Online Services may be provided to you by another company as part of an employment, contract, or similar relationship, for example by our enterprise customers. In this case, if our Online Services are provided by another company, there is a data processing agreement defining the relationship between VONQ and your company. According to this agreement, your company is the controller of your Personal Data. Please refer to your company regarding the processing of your Personal Data.
 
-2.4. Cookies: Interacting with our Online Services should be as convenient as possible for you. To enable this we may use cookies and similar technologies. Cookies are small files temporarily stored on the hard disk of your device by your browser. Such a file often includes a unique identifier, i.e. a randomly generated number. While some cookies expire at the end of your session; others may remain on your device for a longer period of time. If cookies are stored automatically, without your consent, these cookies are technically necessary to provide our Online Services. other cookies (or similar technologies) will only be applied based on your prior consent.
+2.4. Cookies +
+Interacting with our Online Services should be as convenient as possible for you. To enable this we may use cookies and similar technologies. Cookies are small files temporarily stored on the hard disk of your device by your browser. Such a file often includes a unique identifier, i.e. a randomly generated number. While some cookies expire at the end of your session; others may remain on your device for a longer period of time. If cookies are stored automatically, without your consent, these cookies are technically necessary to provide our Online Services. other cookies (or similar technologies) will only be applied based on your prior consent.
 
-2.5. External Links: This Privacy Policy only applies to Online Services that link to this Privacy Policy. It does not apply to third-party websites or if VONQ only processes information as a processor on behalf of a controller. VONQ’s websites contain links or references to other third-party websites we do not control and to which our Privacy Policy does not apply. We are not responsible for the content of third-party websites nor their privacy practices.
+2.5. External Links +
+This Privacy Policy only applies to Online Services that link to this Privacy Policy. It does not apply to third-party websites or if VONQ only processes information as a processor on behalf of a controller. VONQ’s websites contain links or references to other third-party websites we do not control and to which our Privacy Policy does not apply. We are not responsible for the content of third-party websites nor their privacy practices.
 
 *3. Processing of Personal Data in the context of your business
 relationship with VONQ*
 
-3.1. Categories of Personal Data in a business relationship with us, VONQ may process the following categories of Personal Data of employees, contact persons and vicarious agents at (prospective) customers, suppliers or vendors (hereinafter: “Customers”):
+3.1. Categories of Personal Data
+
+In a business relationship with us, VONQ may process the following categories of Personal Data of employees, contact persons and vicarious agents at (prospective) customers, suppliers or vendors (hereinafter: “Customers”):
 
 * Contact information, such as first and last name, name of the company you work for, your job title, the country you or your job are in, your email address and your phone number;
 * Project related information in, but not limited to, Recruitment Marketing Campaigns, necessarily processed in a project or contractual relationship with us or voluntarily provided by the customer, such as Personal Data relating to orders, payments, requests, issues, and project specification, planning and development;
