@@ -49,8 +49,7 @@ In a business relationship with us, VONQ may process the following categories of
 
 3.2. Purpose of processing
 
-Administrating and developing business relationships with customers, including the exchange of information about Online Services, Recruitment Marketing Campaigns and projects in general by, for example, inquiries or requests or providing you with information about services purchased;
-
+* Administrating and developing business relationships with customers, including the exchange of information about Online Services, Recruitment Marketing Campaigns and projects in general by, for example, inquiries or requests or providing you with information about services purchased;
 * Planning, performing and managing business relationships with customers by performing orders and transactions, maintaining an up-to-date job board portfolio, processing payments, accounting, auditing, billing and providing support in the aforementioned areas;
 * Market evaluation and analysis, organizing events and other customer focused activities;
 * Ensuring the confidentiality, integrity, availability and resilience of our Online Services, as well as the detection and prevention of security threats, fraud or other illicit or malicious activities;
@@ -60,7 +59,10 @@ Administrating and developing business relationships with customers, including t
 
 *4. Processing of Personal Data in the context of VONQ KoPilot*
 
-4.1. Categories of Personal Data in the context of KoPilot with us, VONQ may process the following categories of Personal Data of potential candidates (hereinafter: “Candidate”):
+4.1. Categories of Personal Data
+
+In the context of KoPilot, VONQ may process the following categories of Personal Data of potential candidates (hereinafter: “Candidate”):
+
 * Contact information such as salutation, name, email address, and phone number.
 * Professional information such as resume/CV content, including education, experience, skills, and certifications. AI chat and interview information such as answers to AI bot questions and interview transcript.
 * Match Score Data: compatibility score generated through automated analysis comparing your profile with the job description.
@@ -192,7 +194,7 @@ Information exchange and offers concerning our Online Services, providing furthe
 
 *12. International Data Transfers*
 
-If we transfer your Personal Data to third countries outside the EEA, we ensure that your data is safeguarded by appropriate data protection controls, for example by so-called https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en[Standard Contractual Clauses] (hereinafter: “SCCs”). Pre-approved by the European Commission, SCCs are consistent with the GDPR.
+If we transfer your Personal Data to third countries outside the EEA, we ensure that your data is safeguarded by appropriate data protection controls, for example by so-called https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en[Standard Contractual Clauses] (hereinafter: “SCCs”). Pre-approved by the European Commission, SCCs are consistent with the GDPR.
 
 *13. Region Specific Provisions*
 
@@ -204,4 +206,4 @@ The “Do Not Track” browser feature is currently not honored by our Online Se
 
 VONQ’s website and Online Services are not directed to minors, we do not knowingly process Personal Data of children under the age of 13. If you, as parent or legal guardian, believe that VONQ processed your child’s Personal Data, please contact our Data Protection Team via mailto:dpo@vonq.com[dpo@vonq.com]. We will initiate the appropriate steps to remove the information as soon as possible.
 
-Version: VONQ v.07.27 - 29.04.2025 - as published under https://www.vonq.com/privacy-portal/privacy-policy/
+Version: VONQ v.07.27 - 31.05.2025 - as published under https://www.vonq.com/wp-content/uploads/2025/06/20250531_VONQ_NL_Privacy_Policy_v0.3_web-1.pdf
