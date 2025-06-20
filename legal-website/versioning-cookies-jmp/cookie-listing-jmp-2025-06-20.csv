@@ -1,0 +1,38 @@
+﻿Name;Placed by ;Purpose ;Duration;Type
+IDE (cookie with an issue);;DoubleClick IDE cookies are used for serving targeted advertisements that are relevant to users across the web. Targeted advertisements may be displayed to users based on previous visits to a website. These cookies measure the conversion rate of ads presented to the user.;2 months;Interests
+SL_C_23361dd035530_SID;Smartlock or VONQ?;Contains the project key, session ID, and visitor ID. Session and visitor IDs are unique identifiers assigned to new sessions and visitors.;The cookies listed are valid for 13 months and can be manually removed by clearing the browser cache.;Functional
+__hssc;VONQ;Used by Hubspot to store anonymous statistics. This is used to determine if HubSpot should increment the session number and timestamps in the __hstc cookie.;30 mins;Functional
+__hssrc;;Used by HubSpot to store a unique session ID. ;Session;Statistics
+__hstc;;Used by SubSpot to store time of visit.;13 months;Marketing
+_clck;;Used by Microsoft Clarity to store unique user ID.;1 year;Marketing
+_dc_gtm_UA-1739667-1;;Placed by Google Analytics to store number of service requests;1 month;Statistics
+_ga;VONQ (for Google Analytics);Used by Google Analytics to store and count pageviews;2 years;Statistics
+_ga_XEW4RQ8G4D;VONQ (for Google Analytics);Used by Google Analytics to store and count pageviews;1 year;Statistics
+_gat_UA-1739667-7;_gat_UA ;Used by Google Analytics to provide technical monitoring;Session (or 2 years?;Functional
+_gid;VONQ (for Google Analytics);Used by Google Analytics to store and count pageviews;1 day;Statistics
+_hjSessionUser_5043132;;Used by Hotjar to store a unique ID;1 year;Statistics
+ar_debug (cookie with an issue);;Used by DoubleClick to debug ads;1 year;Functional
+Hubspotutk;;Used by Hubspot to store and track a visitor’s identity;13 months;Marketing
+intercom-device-id-jrnjmcp1;;Used by Intercom Messenger to store a unique user ID.;9 months;Marketing
+intercom-id-jrnjmcp1;VONQ (for Intercom);Used by Intercom Messenger to identify anonymous visitors and supports Messenger analytics;9 months;Functional
+intercom-session-jrnjmcp1;VONQ (for Intercom);Used by Intercom Messenger to keep track of sessions. It gives the user access to their previous conversations and identifies them in the Messenger.;This session cookie is refreshed on each successful logged-in ping, extending it to 1 week from that moment. The user can access their conversations and have data communicated on logged out pages for 1 week, as long as the session isn’t intentionally terminated, as would happen in logout;Functional
+mp_f8d0862f74560e194b59cb5860e694c3_mixpanel;Mixpanel;Placed by Mixpanel to measure site performance and usage patterns;1 year (or 3 months?);Statistics
+AMCV_14215E3D5995C57C0A495C55%40AdobeOrg;LinkedIN;Placed by Adobe experience cloud to store last visit;2 years;Statistics
+AnalyticsSyncHistory;LinkedIN;Placed by LinkedIN to store and track visits across websites;30 days;Statistics
+UserMatchHistory;LinkedIN;Placed by LinkedIN to provide ad delivery or retargeting;30 days;Marketing
+_gcl_au;VONQ (for LinkedIN?);Placed by Google adsense to track conversions ;Persistent;Marketing
+_guid;LinkedIN;Placed by LinkedIN to store and track visitor’s identity;90 days;Marketing
+aam_uuid;VONQ (for LinkedIN?);Placed by Adobe to store a unique session ID.;180 days;Marketing?
+Bcookie;LinkedIN;Placed by LinkedIN to store browser details;1 year;Preferences
+Dfpfpt;LinkedIN;Placed by Microsoft to prevent abuse in payment workflows for LinkedIN;2 years;Security
+gpv_pn;LinkedIN;Placed by Microsoft Adobe to retain and fetch previous page visited in Adobe Analytics;6 months;Analytics
+Lang;LinkedIN;Placed by LinkedIN to remember a user's language setting to ensure LinkedIn.com displays in the language selected by the user in their settings;Session;Third-party
+li_gc;LinkedIN;Placed by LinkedIN to store consent of guests regarding the use of cookies for non-essential purposes;6 months;Third-Party
+li_mc;LinkedIN;Placed by LinkedIN as a temporary cache to avoid database lookups for a member's consent for use of non-essential cookies and used for having consent information on the client side to enforce consent on the client side;6 months;Third-party
+li_sugr;LinkedIN;Placed by LinkedIN to make a probabilistic match of a user's identity;90 days;Third-party
+Liap;LinkedIN;Placed by LinkedIN and Used by non-www.domains to denote the logged in status of a member;1 year;Authentication
+Lidc;LinkedIN;Placed by LinkedIN to facilitate data center selection;1 day;Third-party
+lms_ads;LinkedIN;Placed by LinkedIN to identify LinkedIn Members off LinkedIn for advertising;30 days;Third-party
+lms_analytics;LinkedIN;Placed by LinkedIN to identify LinkedIn Members off LinkedIn for analytics;30 days;Third-party
+mp__origin;Mixpanel;?;?;?
+mp__origin_referrer;Mixpanel;?;?;?

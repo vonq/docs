@@ -1,0 +1,25 @@
+= Versioning Cookies JMP - Website
+
+:toc:
+:toclevels: 4
+
+<<<
+
+.Document information
+[%autowidth]
+|===
+| | 
+|Classification:
+|restricted
+|Author:
+|DPO
+|Last changed:
+|20.06.2025
+|===
+
+[%header,format=csv]
+|===
+Current Cookie listing JMP (WIP): +
+
+include::cookie-listing-jmp-2025-06-20.csv[]
+|===

@@ -13,6 +13,8 @@
 |restricted
 |Author:
 |DPO
+|Last changed:
+|20.06.2025
 |===
 
 == Retention Periods in General ==
@@ -21,13 +23,13 @@ Orientation for retetion periods is the respective regulation for the statue of 
 
 === VONQ Job Post ===
 
-Once job postings (vacancies) are deactivated or become inactive:
-- Descriptions of deactivated vacancies: 12 months
-- metadata of deactivated vacancies: 24 months
+Once job postings (vacancies) are deactivated or become inactive: +
+- Descriptions of deactivated vacancies: 12 months +
+- metadata of deactivated vacancies: 24 months +
 
-In General:
-Log files of job board interactions (meta data): 12 months
-payload logs from transactions to job boards: 30 days
+In General: +
+Log files of job board interactions (meta data): 12 months +
+payload logs from transactions to job boards: 30 days +
 
 Apart from that retention periods are defined by the statue of limitation in the Netherlands.
 

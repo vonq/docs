@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|30.05.2025
+|20.06.2025
 |===
 
 == General ==
@@ -23,13 +23,21 @@
 VONQ IT Security and Compliance folder: +
 * link:https://drive.google.com/drive/folders/1RPqdWMCsRZN82c1NMLS3pWqNw4rEOeuc[]
 
-ISO 27001 policy overview: +
+ISO 27001:2022 policy overview: +
 * link:https://docs.google.com/spreadsheets/d/1KfChLHP89isdaHvP_PmX9Ob8JZqfWMPxzVQgm_6fJ0Y[]
+
+ISO 27001:2022 certificate 2025: +
++ link:https://drive.google.com/file/d/1kslwcMwfUGP5fHkzBSUYvZPXan87lX01/view?ts=68525e86[]
 
 === VONQ Suppliers ===
 
-For suplier lists please see the respective directory: +
+For supplier lists please see the respective directory: +
 * link:https://github.com/vonq/docs/tree/main/legal-data-protection/gdpr-supplier-lists[]
+
+=== VONQ RoPa ===
+
+WIP document folder: +
+* link:https://drive.google.com/drive/folders/11ABUYaW94IB-ednuIjNbooSuRBEFLsgT
 
 == Products ==
 
@@ -44,7 +52,10 @@ Product Overwiew 2025: +
 ==== CPA+ presentation ====
 * link:https://docs.google.com/presentation/d/1L88aG1DylocysP4765EBtVhHPXw6u5aOoiCzU9mmQZU[]
 
-==== CPA+ agreement with publishers (WIP) ====
+==== CPA+ agreement with publishers ====
+* link:https://docs.google.com/document/d/1K-nV-h1Nfyqx7YJ9HJKY9LsnNKVR4e3v[]
+
+WIP DPA: +
 * link:https://docs.google.com/document/d/1UEopO_zrJCHkmt_APwHzzgxFIPKaloRsuTYuOaG9DSQ[]
 
 === CPA+ HAPI DPA Draft ===
@@ -100,6 +111,7 @@ Generali questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/11JHKS6MPgvA_y2_nonUJTjEpiToxfTat[]
 
 Hilti questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/1dWOjHPgotFwfRcZVqVwzsOvsTWiFA3OH[]
 * link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[]
 
 Peek&Cloppenburg questionnaire (German): +
