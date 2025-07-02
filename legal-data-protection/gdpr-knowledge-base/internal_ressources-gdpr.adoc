@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|20.06.2025
+|02.07.2025
 |===
 
 == General ==
@@ -26,8 +26,14 @@ VONQ IT Security and Compliance folder: +
 ISO 27001:2022 policy overview: +
 * link:https://docs.google.com/spreadsheets/d/1KfChLHP89isdaHvP_PmX9Ob8JZqfWMPxzVQgm_6fJ0Y[]
 
+ISO 27001:2022 incident response plan: +
+* link:https://docs.google.com/document/d/1jG5kVOm-rlhjWaX2vYN4tUVsN7q2NcLk[]
+
 ISO 27001:2022 certificate 2025: +
-+ link:https://drive.google.com/file/d/1kslwcMwfUGP5fHkzBSUYvZPXan87lX01/view?ts=68525e86[]
+* link:https://drive.google.com/file/d/1kslwcMwfUGP5fHkzBSUYvZPXan87lX01/view?ts=68525e86[]
+
+IT Security Jira Epic: +
+* link:https://qandidate.atlassian.net/browse/DEVOPS-2845[]
 
 === VONQ Suppliers ===
 
@@ -118,6 +124,10 @@ Peek&Cloppenburg questionnaire (German): +
 * link:https://docs.google.com/spreadsheets/d/1QalUbdnZLJdkd30WXZf4rUtcNINaIgPw[]
 
 ==== Job Marketing ====
+
+EFSA questionnaire: +
+* link:https://docs.google.com/document/d/1Y4fF5h3_v9t4KXlFVO8IDqF2tW7ZlC-A[]
+* link:https://docs.google.com/spreadsheets/d/1nYcDeV7kgYevF5zDme07jVJVHo3rXka4ASDhXYfZxYI[]
 
 WOLT questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1xhqMkZsGNQS9NUB9EPFfT8hUS44tQrZvyUGUXjG_egI[]
