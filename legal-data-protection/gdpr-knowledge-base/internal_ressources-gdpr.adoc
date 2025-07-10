@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|02.07.2025
+|10.07.2025
 |===
 
 == General ==
@@ -79,6 +79,9 @@ APG Questions on AI Agents: +
 
 ==== HAPI partnership agreement ====
 * link:https://docs.google.com/document/d/1VDtOANjV5H7EC0VaLQkYlhQSWjW9QvXM[]
+
+==== HAPI Online DPA ====
+* link:https://docs.google.com/document/d/1K-nV-h1Nfyqx7YJ9HJKY9LsnNKVR4e3v[]
 
 ==== HAPI DPA check ====
 * link:https://docs.google.com/spreadsheets/d/1qsKBpg0_QyxD02VAfk0R_rj7HHFsNTHWdxrXt54RK3o[]
