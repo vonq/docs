@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|14.07.2025
+|25.07.2025
 |===
 
 == General ==
@@ -30,6 +30,9 @@ ISO 27001:2022 incident response plan: +
 
 ISO 27001:2022 certificate 2025: +
 * link:https://drive.google.com/file/d/1kslwcMwfUGP5fHkzBSUYvZPXan87lX01/view?ts=68525e86[]
+
+ISO 27001:2013 statement of applicability (SOA): +
+* link:https://drive.google.com/file/d/1pXXcCuA70CEAstRPQO2hJDnXlEt9mHo1/view[]
 
 IT Security Jira Epic: +
 * link:https://qandidate.atlassian.net/browse/DEVOPS-2845[]
@@ -98,17 +101,8 @@ ANWB questionnaire folder: +
 E.ON questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1EN5KEp2W-orTVisQsXTF60v7rhUIcxab[]
 
-WTW questionnaire: +
-* link:https://docs.google.com/spreadsheets/d/1_JzhQXgX1hnx5H4s_5CJ3SPhXslefHVj[]
-
 EQUANS questionnaire folder: +
 * link:https://drive.google.com/drive/folders/1uYEqT2IEPLbZOYZw9Stetzy7o5Kpf2wF[]
-
-Novartis questionnaire: +
-* link:https://docs.google.com/spreadsheets/d/1vrstiNI53Z6-LxXRLfbmzEQnt-gq1cuM[]
-
-Publicis Group questionnaire folder: +
-* link:https://drive.google.com/drive/folders/1ueLD2JjHpEEzN6ZANFs9QNTssB5Q6ZOo[]
 
 Generali questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/11JHKS6MPgvA_y2_nonUJTjEpiToxfTat[]
@@ -118,8 +112,20 @@ Hilti questionnaire and Q&A: +
 * link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[]
 * link:https://docs.google.com/document/d/1FSzfVgit6j2p60XPQb48majFfM4KQHz3q0LZzWby_Uk[]
 
+Novartis questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/1vrstiNI53Z6-LxXRLfbmzEQnt-gq1cuM[]
+
 Peek&Cloppenburg questionnaire (German): +
 * link:https://docs.google.com/spreadsheets/d/1QalUbdnZLJdkd30WXZf4rUtcNINaIgPw[]
+
+Publicis Group questionnaire folder: +
+* link:https://drive.google.com/drive/folders/1ueLD2JjHpEEzN6ZANFs9QNTssB5Q6ZOo[]
+
+VodafoneZiggo questionnaire: +
+* link:https://docs.google.com/document/d/1L7_qLrS5yfJrxyO0UgDd8MDOC0tm9UKb[]
+
+WTW questionnaire: +
+* link:https://docs.google.com/spreadsheets/d/1_JzhQXgX1hnx5H4s_5CJ3SPhXslefHVj[]
 
 ==== Job Marketing ====
 EFSA questionnaire: +
