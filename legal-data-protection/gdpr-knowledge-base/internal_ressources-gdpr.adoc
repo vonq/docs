@@ -13,7 +13,7 @@
 |Author:
 |DPO
 |Last changed:
-|25.07.2025
+|28.07.2025
 |===
 
 == General ==
@@ -76,6 +76,9 @@ APG Questions on AI Agents: +
 
 === HAPI ===
 
+==== HAPI API incl. Smartfill and Payments documentation ====
+* link:https://vonq.stoplight.io/docs/hapi[]
+
 ==== HAPI partnership agreement ====
 * link:https://docs.google.com/document/d/1VDtOANjV5H7EC0VaLQkYlhQSWjW9QvXM[]
 
@@ -86,7 +89,7 @@ APG Questions on AI Agents: +
 * link:https://docs.google.com/spreadsheets/d/1qsKBpg0_QyxD02VAfk0R_rj7HHFsNTHWdxrXt54RK3o[]
 
 ==== Client communication ====
-* link:https://docs.google.com/document/d/1W-3UbrfYV2y9ezCpvlCKO8gVeQrMr9lTUwrfZAa2CTI[]
+* link:https://docs.google.com/document/d/1W-3UbrfYV2y9ezCpvlCKO8gVeQrMr9lTUwrfZAa2CTI[] +
 * link:https://docs.google.com/document/d/1pBERYrakzrIbzM_tcQSY-nD6_8xckDcdY5Nn-YT8fE0[]
 
 === Job Post ===
@@ -108,8 +111,8 @@ Generali questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/11JHKS6MPgvA_y2_nonUJTjEpiToxfTat[]
 
 Hilti questionnaire and Q&A: +
-* link:https://docs.google.com/spreadsheets/d/1dWOjHPgotFwfRcZVqVwzsOvsTWiFA3OH[]
-* link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[]
+* link:https://docs.google.com/spreadsheets/d/1dWOjHPgotFwfRcZVqVwzsOvsTWiFA3OH[] +
+* link:https://docs.google.com/spreadsheets/d/1j0HsPixQyji1n09QglI33Eq1GEyhbME7[] +
 * link:https://docs.google.com/document/d/1FSzfVgit6j2p60XPQb48majFfM4KQHz3q0LZzWby_Uk[]
 
 Novartis questionnaire: +
@@ -128,8 +131,12 @@ WTW questionnaire: +
 * link:https://docs.google.com/spreadsheets/d/1_JzhQXgX1hnx5H4s_5CJ3SPhXslefHVj[]
 
 ==== Job Marketing ====
+
+JMP login page: +
+* link:https://platform.vonq.com[]
+
 EFSA questionnaire: +
-* link:https://docs.google.com/document/d/1Y4fF5h3_v9t4KXlFVO8IDqF2tW7ZlC-A[]
+* link:https://docs.google.com/document/d/1Y4fF5h3_v9t4KXlFVO8IDqF2tW7ZlC-A[] +
 * link:https://docs.google.com/spreadsheets/d/1nYcDeV7kgYevF5zDme07jVJVHo3rXka4ASDhXYfZxYI[]
 
 WOLT questionnaire: +
